@@ -1,0 +1,1 @@
+Остановка {number} из {total} · {route}

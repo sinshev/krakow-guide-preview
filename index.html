@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/krakow-guide-preview/">
+
+  <meta charset="UTF-8">
+  <!--
+    Content Security Policy of the web preview: exactly what the page needs
+    and nothing else.
+    * script-src: the app and Flutter's loader ('self'), CanvasKit
+      (www.gstatic.com/flutter-canvaskit, plus 'wasm-unsafe-eval' to compile
+      its WebAssembly), sql.js (cdnjs, also pinned by the integrity hash
+      below) and the Google Maps JavaScript API (maps.googleapis.com and its
+      code on maps.gstatic.com; the API also starts workers from blob:).
+    * connect-src: the same hosts for fetch (CanvasKit and sql.js load their
+      .wasm that way) and the Maps API's own requests.
+    * img-src: Maps tiles and icons (googleapis / gstatic / google.com /
+      googleusercontent), data: and blob: images the app and Maps create.
+    * style-src 'unsafe-inline': Flutter and the Maps API set inline styles;
+      font-src / fonts.googleapis.com: the Maps API's Roboto and Flutter's
+      fallback fonts (fonts.gstatic.com).
+    * No frames, plugins or forms, and nothing else may change <base>.
+    Change this list together with a new third-party host and re-run the
+    headless check described in docs/release_checklist.md (web preview).
+  -->
+  <meta
+    http-equiv="Content-Security-Policy"
+    content="default-src 'none';
+      script-src 'self' 'wasm-unsafe-eval' https://www.gstatic.com https://cdnjs.cloudflare.com https://maps.googleapis.com https://maps.gstatic.com blob:;
+      worker-src 'self' blob:;
+      connect-src 'self' https://www.gstatic.com https://fonts.gstatic.com https://cdnjs.cloudflare.com https://maps.googleapis.com https://maps.gstatic.com https://*.googleapis.com data: blob:;
+      img-src 'self' data: blob: https://maps.googleapis.com https://maps.gstatic.com https://*.googleapis.com https://*.gstatic.com https://*.google.com https://*.googleusercontent.com https://*.ggpht.com;
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      font-src 'self' data: https://fonts.gstatic.com;
+      manifest-src 'self';
+      media-src 'self' data: blob:;
+      object-src 'none';
+      frame-src 'none';
+      form-action 'none';
+      base-uri 'self'"
+  >
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta
+    name="description"
+    content="Krakow Guide development preview for the mobile app."
+  >
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Krakow Guide">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Krakow Guide</title>
+  <link rel="manifest" href="manifest.json">
+  <!--
+    sql.js 1.13.0 from cdnjs, pinned by its SHA-384 (computed from the exact
+    file: curl -s <url> | openssl dgst -sha384 -binary | openssl base64 -A; the
+    sha512 matches cdnjs' own listing). Changing the version means
+    recomputing the hash. The sql-wasm.wasm that script fetches next to itself
+    cannot carry an integrity attribute; connect-src limits where it may come
+    from.
+  -->
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.13.0/sql-wasm.min.js"
+    integrity="sha384-666zzSs4ww6001MxYRNfvlFGHQAn+2hSCyPUSDg/MW9J2QZw+f+ow9MAIwhXktuy"
+    crossorigin="anonymous"
+  ></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-SUvPJmpH5iuSvNZkE4JmLzSrPflrhiU&libraries=marker,geometry"></script>
+</head>
+<body>
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
+
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+  <script src="flutter_bootstrap.js"></script>
+</body>
+</html>

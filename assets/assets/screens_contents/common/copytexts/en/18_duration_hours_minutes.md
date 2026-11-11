@@ -1,0 +1,1 @@
+{hours} h {minutes} min

@@ -1,0 +1,1 @@
+We’ll attach: stop {stop}, your app version, device model and a short technical log

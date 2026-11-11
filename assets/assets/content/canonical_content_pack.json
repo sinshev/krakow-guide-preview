@@ -1,0 +1,1656 @@
+{
+  "guide": {
+    "id": "krakow-guide",
+    "city": "Kraków",
+    "title": {
+      "en": "Explore Kraków one route at a time",
+      "ru": "Открывайте Краков по одному маршруту"
+    },
+    "summary": {
+      "en": "Audio walks through Kraków with recorded stories, stops on the map and routes you can take offline.",
+      "ru": "Аудиопрогулки по Кракову: истории в записи, остановки на карте и маршруты, которые можно скачать."
+    },
+    "guideName": "Anna",
+    "guideRole": {
+      "en": "local storyteller",
+      "ru": "локальный рассказчик"
+    },
+    "guideBio": {
+      "en": "Local editor focused on clear, compact city walks built around real places and practical pacing.",
+      "ru": "Локальный редактор, который собирает короткие и ясные прогулки вокруг реальных мест и удобного темпа."
+    },
+    "manifestVersionHash": "content-25145566e824c98d"
+  },
+  "routes": [
+    {
+      "id": "route-roskoshny-maximum",
+      "district": "Stare Miasto",
+      "durationMinutes": 40,
+      "distanceKm": 0.4,
+      "priceLabel": "29 PLN",
+      "stopIds": [
+        "stop-plac-sw-ducha",
+        "stop-teatr-slowackiego",
+        "stop-mury-obronne",
+        "stop-muzeum-czartoryskich",
+        "stop-jama-michalika"
+      ],
+      "coverImage": "assets/route_media/roskoshny-maximum/stop-plac-sw-ducha/05.jpg",
+      "title": {
+        "en": "Maximum Splendor",
+        "ru": "Роскошный максимум"
+      },
+      "summary": {
+        "en": "Royal Kraków, bohemian cafés, palaces, scandals and the loveliest courtyards behind doors thousands of tourists walk past.",
+        "ru": "Королевский Краков, богемные кафе, дворцы, скандалы и самые красивые дворы за дверями, мимо которых проходят тысячи туристов."
+      },
+      "themeLabel": {
+        "en": "Splendor and scandal",
+        "ru": "Роскошь и скандалы"
+      },
+      "tags": {
+        "en": [
+          "history",
+          "architecture",
+          "center",
+          "hidden-gems"
+        ],
+        "ru": [
+          "history",
+          "architecture",
+          "center",
+          "hidden-gems"
+        ]
+      },
+      "audioFallback": {
+        "en": "ru"
+      }
+    },
+    {
+      "id": "route-classic",
+      "district": "Stare Miasto",
+      "durationMinutes": 105,
+      "distanceKm": 2.3,
+      "priceLabel": "29 PLN",
+      "stopIds": [
+        "stop-market-square",
+        "stop-st-marys-basilica",
+        "stop-cloth-hall",
+        "stop-collegium-maius",
+        "stop-grodzka",
+        "stop-wawel"
+      ],
+      "coverImage": "assets/route_media/classic/stop-wawel/01.jpg",
+      "title": {
+        "en": "Kraków in 3 Hours",
+        "ru": "Краков за 3 часа"
+      },
+      "summary": {
+        "en": "A first route across the city center, from the square to Wawel.",
+        "ru": "Первый маршрут по центру города: от главной площади до Вавеля."
+      },
+      "themeLabel": {
+        "en": "Classic walk",
+        "ru": "Классическая прогулка"
+      },
+      "tags": {
+        "en": [
+          "history",
+          "first-time",
+          "center"
+        ],
+        "ru": [
+          "history",
+          "first-time",
+          "center"
+        ]
+      }
+    },
+    {
+      "id": "route-romantic",
+      "district": "Kazimierz",
+      "durationMinutes": 100,
+      "distanceKm": 2.2,
+      "priceLabel": "19 PLN",
+      "stopIds": [
+        "stop-szeroka",
+        "stop-remuh",
+        "stop-plac-nowy",
+        "stop-jozefa",
+        "stop-bernatka",
+        "stop-vistula-kazimierz"
+      ],
+      "coverImage": "assets/route_media/romantic/stop-bernatka/01.jpg",
+      "title": {
+        "en": "Golden Hour in Kazimierz",
+        "ru": "Золотой час в Казимеже"
+      },
+      "summary": {
+        "en": "A slower walk through Kazimierz and down to the river.",
+        "ru": "Более медленная прогулка по Казимежу и к набережной."
+      },
+      "themeLabel": {
+        "en": "Evening route",
+        "ru": "Вечерний маршрут"
+      },
+      "tags": {
+        "en": [
+          "sunset",
+          "slow",
+          "romantic"
+        ],
+        "ru": [
+          "sunset",
+          "slow",
+          "romantic"
+        ]
+      }
+    },
+    {
+      "id": "route-views",
+      "district": "Podgórze",
+      "durationMinutes": 120,
+      "distanceKm": 3.1,
+      "priceLabel": "24 PLN",
+      "stopIds": [
+        "stop-podgorze-market",
+        "stop-st-joseph",
+        "stop-bednarski-terrace",
+        "stop-liban-overlook",
+        "stop-st-benedict",
+        "stop-krakus-mound"
+      ],
+      "coverImage": "assets/route_media/views/stop-krakus-mound/01.jpg",
+      "title": {
+        "en": "Viewpoints of Podgórze",
+        "ru": "Смотровые точки Подгужа"
+      },
+      "summary": {
+        "en": "A hillside route with terraces, quarry views, and the Krakus Mound finish.",
+        "ru": "Маршрут по склонам Подгужа с террасами, карьером и финалом на Кургане Кракуса."
+      },
+      "themeLabel": {
+        "en": "Viewpoints",
+        "ru": "Смотровые точки"
+      },
+      "tags": {
+        "en": [
+          "views",
+          "photo",
+          "hillside"
+        ],
+        "ru": [
+          "views",
+          "photo",
+          "hillside"
+        ]
+      }
+    }
+  ],
+  "stops": [
+    {
+      "id": "stop-plac-sw-ducha",
+      "routeId": "route-roskoshny-maximum",
+      "orderIndex": 1,
+      "latitude": 50.063778,
+      "longitude": 19.941972,
+      "audioTrackId": "audio-stop-plac-sw-ducha",
+      "title": {
+        "en": "Holy Spirit Square",
+        "ru": "Площадь Святого Духа"
+      },
+      "summary": {
+        "en": "A bronze model, Kraków’s oldest house and the scandal that cleared the way for a lavish theater.",
+        "ru": "Бронзовый макет, старейший жилой дом Кракова и скандал, расчистивший место для роскошного театра."
+      },
+      "body": {
+        "en": "We’re standing in Holy Spirit Square (plac Świętego Ducha). Today it’s a cozy square that has kept the character of old Kraków. But step closer to the bronze model — the scaled-down copy shows perfectly well what stood here a century and a half ago — a church, a cemetery, a monastery and a hospice of the Order of the Holy Spirit, or, to put it simply, of the Duchacy. They’re the ones who gave this place its name.\n\nFrom the middle of the 13th century, the Duchacy and their hospice played an important social role in the city: it was at once a place to isolate the sick and a refuge for the old, the homeless and others in need.\n\nSome of the medieval complex did survive, though. Stand so that the theater building is on your left. Straight ahead of you, at the far end of the square, is the Church of the Holy Cross. By the way, it only looks this unassuming from the outside. Inside there’s a rare and elegant touch: a single decorative column holding up the vault.\n\nAnd then there’s that low building of rough, unhewn stone to the right of the church. It’s not the prettiest building in the Old Town, but it’s the one considered the oldest residential building in Kraków. Built more than 700 years ago, it has barely changed.\n\nAt the end of the 18th century the last of the Duchacy died, and over time the hospice buildings themselves fell into such disrepair that they could have collapsed at any moment. The city administration decided it would be easier not to restore them but to tear them down. And to put up a new building for the Municipal Theater in their place.\n\nThe theater building of the day, mind you, was in just as sorry a state as the Duchacy’s buildings. Audiences breathed stale air, sat in drafts and had to bundle up in fur coats in that moldy hall. But the main trigger for building a new stage was the fire at the Vienna opera, which showed exactly what comes of ignoring safety rules.\n\nThe decision to demolish the medieval buildings set off a storm of protest. Rising to defend the medieval walls was the most respected Polish painter of all — Jan Matejko. He was so outraged that he gave up his title of honorary citizen of the city and banned his paintings from being shown. After all, he had his own vision for this neighborhood: turn the rickety hospital buildings into a gallery named after himself. But the city authorities said no.\n\nTruth be told, the disastrous sanitary state of a city of 80,000 people was crying out for running water and sewers rather than a magnificent palace. But the city administration was more afraid of being left without a theater than without plumbing.\n\nWhat came out of it was a lavishly decorated design. The architect, like many at the time, took his inspiration from the Paris Opera (Palais Garnier). He borrowed a few visual ideas from Kraków’s own buildings, too. From this spot, for example, you can clearly see the sculpted details under the dome in the shape of decorative masks — similar ones adorn Kraków’s oldest shopping mall. We’ll be seeing it today as well.\n\nIn many ways the theater was ahead of its time — it was the first building in Kraków with electric lighting. The small annex to the left of the Church of the Holy Cross is a purpose-built power station. The architect called it the “machine house.” Today it’s the theater’s small stage.\n\nAnd so, as so often happened in Kraków, amid an aura of scandal and controversy, in the fall of 1893 a luxurious palace with electric light bulbs rises on the ruins of a medieval shelter for the poor.\n\nLet’s move over to the theater’s main entrance to take a closer look at a few details on the facade.",
+        "ru": "Мы стоим на площади Святого Духа. Сейчас это уютная площадь, сохранившая характер старого Кракова. Но подойдите ближе к бронзовому макету — на уменьшенной копии отлично видно, что здесь стояло полтора столетия назад — костёл, кладбище, монастырь и приют ордена Святого Духа или, по-простому, духаков. Они и дали название этому месту.\n\nОт середины XIII века духаки в своём приюте выполняли важную для города социальную роль — были одновременно местом изоляции больных, а также убежищем для старых, бездомных и других нуждающихся.\n\nКое-что из комплекса средневековых построек, всё-таки, уцелело. Встаньте таким образом, чтобы здание театра было слева от вас. Прямо перед вами, в глубине площади — костёл Святого Креста. Он, кстати, только с виду такой неказистый. Внутри — редкое и изящное решение в виде единственной декоративной колонны, поддерживающей свод.\n\nА вот та низкая постройка справа от костёла из необработанного камня. Это не самое красивое здание старого города, но именно оно считается старейшим жилым зданием в Кракове. Построенное более 700 лет назад, оно почти не изменилось.\n\nВ конце XVIII века умер последний из духаков, а сами здания приюта со временем настолько обветшали, что вот-вот могли завалиться. Администрация города решила, что проще эти постройки не восстанавливать, а снести. А на их месте поставить новое здание городского театра.\n\nЗдание тогдашнего театра, к слову, находилось в таком же плачевном состоянии, что и постройки духаков. Зрители дышали затхлым воздухом, обдувались сквозняками и были вынуждены кутаться в шубы, сидя в заплесневелом помещении. Но главным триггером к строительству новой сцены стал пожар в венской опере, который показал, чем заканчивается игнорирование техники безопасности.\n\nРешение о сносе средневековых построек вызвали бурю протестов. На защиту средневековых стен встал самый авторитетный польский живописец — Ян Матейко. Он был так возмущён, что отказался от титула почётного гражданина города и запретил показывать свои картины. Ведь у него было своё видение развития этого района: превратить ветхие больничные здания в галерею имени себя. Но городские власти отказали.\n\nВообще-то, фатальное санитарное состояние города с населением в 80 тысяч человек требовало, скорее, строительства водопровода и канализации, а не великолепного дворца. Но администрация города больше боялась остаться городом без театра, чем без санитарных удобств.\n\nПолучился богато декорированный проект. Архитектор, как и многие в то время, вдохновился парижской оперой Гарнье. Кое-какие визуальные решения позаимствовал и у краковских зданий. С этой точки, например, хорошо видны скульптурные детали в виде декоративных масок под куполом — похожие установлены на самом старом краковском торговом центре. Сегодня мы его тоже увидим.\n\nВо многих отношениях театр был прогрессивным — это было первое здание в Кракове с электрическим освещением. Небольшая пристройка театра слева от костёла Святого Креста — специальное здание-электровня. Архитектор назвал его «домом машин». Сегодня это малая сцена театра.\n\nТаким образом, как это обычно бывало в Кракове, в ауре скандалов и противоречий осенью 1893 года в Кракове на руинах средневекового приюта для бедных появляется роскошный дворец с электрическими лампочками.\n\nПеремещаемся к главному входу в театр, чтобы разглядеть несколько деталей на фасаде."
+      },
+      "transcript": {
+        "en": "We’re standing in Holy Spirit Square (plac Świętego Ducha). Today it’s a cozy square that has kept the character of old Kraków. But step closer to the bronze model — the scaled-down copy shows perfectly well what stood here a century and a half ago — a church, a cemetery, a monastery and a hospice of the Order of the Holy Spirit, or, to put it simply, of the Duchacy. They’re the ones who gave this place its name.\n\nFrom the middle of the 13th century, the Duchacy and their hospice played an important social role in the city: it was at once a place to isolate the sick and a refuge for the old, the homeless and others in need.\n\nSome of the medieval complex did survive, though. Stand so that the theater building is on your left. Straight ahead of you, at the far end of the square, is the Church of the Holy Cross. By the way, it only looks this unassuming from the outside. Inside there’s a rare and elegant touch: a single decorative column holding up the vault.\n\nAnd then there’s that low building of rough, unhewn stone to the right of the church. It’s not the prettiest building in the Old Town, but it’s the one considered the oldest residential building in Kraków. Built more than 700 years ago, it has barely changed.\n\nAt the end of the 18th century the last of the Duchacy died, and over time the hospice buildings themselves fell into such disrepair that they could have collapsed at any moment. The city administration decided it would be easier not to restore them but to tear them down. And to put up a new building for the Municipal Theater in their place.\n\nThe theater building of the day, mind you, was in just as sorry a state as the Duchacy’s buildings. Audiences breathed stale air, sat in drafts and had to bundle up in fur coats in that moldy hall. But the main trigger for building a new stage was the fire at the Vienna opera, which showed exactly what comes of ignoring safety rules.\n\nThe decision to demolish the medieval buildings set off a storm of protest. Rising to defend the medieval walls was the most respected Polish painter of all — Jan Matejko. He was so outraged that he gave up his title of honorary citizen of the city and banned his paintings from being shown. After all, he had his own vision for this neighborhood: turn the rickety hospital buildings into a gallery named after himself. But the city authorities said no.\n\nTruth be told, the disastrous sanitary state of a city of 80,000 people was crying out for running water and sewers rather than a magnificent palace. But the city administration was more afraid of being left without a theater than without plumbing.\n\nWhat came out of it was a lavishly decorated design. The architect, like many at the time, took his inspiration from the Paris Opera (Palais Garnier). He borrowed a few visual ideas from Kraków’s own buildings, too. From this spot, for example, you can clearly see the sculpted details under the dome in the shape of decorative masks — similar ones adorn Kraków’s oldest shopping mall. We’ll be seeing it today as well.\n\nIn many ways the theater was ahead of its time — it was the first building in Kraków with electric lighting. The small annex to the left of the Church of the Holy Cross is a purpose-built power station. The architect called it the “machine house.” Today it’s the theater’s small stage.\n\nAnd so, as so often happened in Kraków, amid an aura of scandal and controversy, in the fall of 1893 a luxurious palace with electric light bulbs rises on the ruins of a medieval shelter for the poor.\n\nLet’s move over to the theater’s main entrance to take a closer look at a few details on the facade.",
+        "ru": "Мы стоим на площади Святого Духа. Сейчас это уютная площадь, сохранившая характер старого Кракова. Но подойдите ближе к бронзовому макету — на уменьшенной копии отлично видно, что здесь стояло полтора столетия назад — костёл, кладбище, монастырь и приют ордена Святого Духа или, по-простому, духаков. Они и дали название этому месту.\n\nОт середины XIII века духаки в своём приюте выполняли важную для города социальную роль — были одновременно местом изоляции больных, а также убежищем для старых, бездомных и других нуждающихся.\n\nКое-что из комплекса средневековых построек, всё-таки, уцелело. Встаньте таким образом, чтобы здание театра было слева от вас. Прямо перед вами, в глубине площади — костёл Святого Креста. Он, кстати, только с виду такой неказистый. Внутри — редкое и изящное решение в виде единственной декоративной колонны, поддерживающей свод.\n\nА вот та низкая постройка справа от костёла из необработанного камня. Это не самое красивое здание старого города, но именно оно считается старейшим жилым зданием в Кракове. Построенное более 700 лет назад, оно почти не изменилось.\n\nВ конце XVIII века умер последний из духаков, а сами здания приюта со временем настолько обветшали, что вот-вот могли завалиться. Администрация города решила, что проще эти постройки не восстанавливать, а снести. А на их месте поставить новое здание городского театра.\n\nЗдание тогдашнего театра, к слову, находилось в таком же плачевном состоянии, что и постройки духаков. Зрители дышали затхлым воздухом, обдувались сквозняками и были вынуждены кутаться в шубы, сидя в заплесневелом помещении. Но главным триггером к строительству новой сцены стал пожар в венской опере, который показал, чем заканчивается игнорирование техники безопасности.\n\nРешение о сносе средневековых построек вызвали бурю протестов. На защиту средневековых стен встал самый авторитетный польский живописец — Ян Матейко. Он был так возмущён, что отказался от титула почётного гражданина города и запретил показывать свои картины. Ведь у него было своё видение развития этого района: превратить ветхие больничные здания в галерею имени себя. Но городские власти отказали.\n\nВообще-то, фатальное санитарное состояние города с населением в 80 тысяч человек требовало, скорее, строительства водопровода и канализации, а не великолепного дворца. Но администрация города больше боялась остаться городом без театра, чем без санитарных удобств.\n\nПолучился богато декорированный проект. Архитектор, как и многие в то время, вдохновился парижской оперой Гарнье. Кое-какие визуальные решения позаимствовал и у краковских зданий. С этой точки, например, хорошо видны скульптурные детали в виде декоративных масок под куполом — похожие установлены на самом старом краковском торговом центре. Сегодня мы его тоже увидим.\n\nВо многих отношениях театр был прогрессивным — это было первое здание в Кракове с электрическим освещением. Небольшая пристройка театра слева от костёла Святого Креста — специальное здание-электровня. Архитектор назвал его «домом машин». Сегодня это малая сцена театра.\n\nТаким образом, как это обычно бывало в Кракове, в ауре скандалов и противоречий осенью 1893 года в Кракове на руинах средневекового приюта для бедных появляется роскошный дворец с электрическими лампочками.\n\nПеремещаемся к главному входу в театр, чтобы разглядеть несколько деталей на фасаде."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/roskoshny-maximum/audio/ru/stop-plac-sw-ducha.mp3",
+        "ru": "assets/route_media/roskoshny-maximum/audio/ru/stop-plac-sw-ducha.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-plac-sw-ducha-01",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-plac-sw-ducha/01.jpg"
+        },
+        {
+          "assetId": "stop-plac-sw-ducha-02",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-plac-sw-ducha/02.jpg"
+        },
+        {
+          "assetId": "stop-plac-sw-ducha-03",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-plac-sw-ducha/03.jpg"
+        },
+        {
+          "assetId": "stop-plac-sw-ducha-04",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-plac-sw-ducha/04.jpg"
+        },
+        {
+          "assetId": "stop-plac-sw-ducha-05",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-plac-sw-ducha/05.jpg"
+        },
+        {
+          "assetId": "stop-plac-sw-ducha-06",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-plac-sw-ducha/06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-teatr-slowackiego",
+      "routeId": "route-roskoshny-maximum",
+      "orderIndex": 2,
+      "latitude": 50.064194,
+      "longitude": 19.94225,
+      "audioTrackId": "audio-stop-teatr-slowackiego",
+      "title": {
+        "en": "Juliusz Słowacki Theater",
+        "ru": "Театр Юлиуша Словацкого"
+      },
+      "summary": {
+        "en": "Allegories on the facade, one toilet for 900 seats and Kraków’s most scandalous premiere.",
+        "ru": "Аллегории на фасаде, один туалет на 900 зрителей и самая скандальная премьера Кракова."
+      },
+      "body": {
+        "en": "The first 20 years after the new Municipal Theater building opened passed under the patronage of Aleksander Fredro. That’s his bust you see in front of the main entrance. Count Aleksander Fredro is called the father of Polish comedy — over the new theater’s first 2 decades, 77 premieres of his works were staged here. And everyone had long grown used to their patron when, in 1909, the Municipal Theater was suddenly renamed in honor of Juliusz Słowacki — one of the “Three Bards” of Polish literature. His 100th birthday simply happened to fall in 1909.\n\nLet’s take a closer look at the most eye-catching details of the facade. To the left and right of the main entrance are two projecting wings, each crowned with an elaborate group of figures:\n• The trio to the left of the entrance stands for Poetry, Tragedy and Comedy.\n• The trio on the right tells us this is not just a theater but an opera house too — that’s why the architect placed allegories of Music, Opera and Operetta here.\n• The two stone busts below are Joy and Sorrow.\n\nBetween the two wings you’ll see the carved inscription “Kraków Narodowej Sztuce,” that is, “Kraków — to National Art.” It’s a nod to the fact that the theater was built with money from the public.\n\nHere’s an interesting fact, little known even among Kraków locals, that played a key role in tipping the city’s choice toward the theater. A certain count from Podolia was so impressed by a production back in the old Municipal Theater that he posthumously donated everything he owned to building a new one. The sum didn’t cover the whole construction, but it was big enough to put the city sewer project off until later.\n\nStill, in building a beautiful and, for its day, modern theater, the architect didn’t manage to avoid a few flops. A theater with plush furniture, an auditorium on 4 levels and an original capacity of more than 900 people had one single restroom — on the orchestra level. Just picture the line waiting for the theatergoers who came racing down several flights of stairs from the top floor at intermission.\n\nEven so, many of the theater’s premieres would later take on historic importance for all of reunited Poland. In 1896 the Kraków theater hosted the first film screening on the Lumière brothers’ equipment. It was love at first frame! And to this day Kraków holds international film festivals, competitions and open-air summer screenings every year.\n\nThe new theater was the only one in Kraków, so audiences had to adapt to whatever repertoire was on offer. In 1901 it hosted the scandalous premiere of Stanisław Wyspiański’s drama “Wesele” (“The Wedding”).\n\nWhat was the scandal? The artistic intelligentsia of the time had made it fashionable to marry peasant girls to show off their so-called “closeness to the people.” Such glaring misalliances outraged the public, and above all Poland’s first-wave feminists. And Wyspiański’s drama is based on just such a real event — its central plot is the wedding of his friend, a poet, to a peasant girl from a village outside Kraków.\n\nToday the play is a cult classic: every Polish schoolkid knows it, and many of its lines have become famous quotes and catchphrases. But back then neither the artistic elite nor the general public appreciated it. The actors themselves threw down their scripts at rehearsals and refused to take part in this “nonsense.”\n\nIn short, the Municipal Theater turned out innovative and luxurious, and like everything luxurious — expensive, and like everything expensive — scandalous. And now we’re heading from theatrical glitter to the old city walls. Or rather, to what’s left of them. Turn your back to the theater, walk to the right to the end of the street and stop at the nearest tower, which goes by the strange name Baszta Pasamoników, the Haberdashers’ Tower. You’ll see that, unlike the Duchacy’s buildings, part of the city’s medieval defensive ring was saved. Without scandals or protests, but thanks to a very unusual argument.",
+        "ru": "Первые 20 лет со дня открытия нового здания Городского театра прошли под покровительством Александра Фредро. Это его бюст вы видите перед центральным входом. Графа Александра Фредро называют отцом польской комедии — за первые 2 десятилетия нового театра здесь состоялось 77 премьер его произведений. И все уже привыкли к патрону, когда в 1909 году Городской театр неожиданно переименовали в честь Юлиуша Словацкого — одного из «Трёх пророков» польской литературы. У того на 1909 год просто пришлось 100-летие со Дня рождения.\n\nПрисмотримся к самым заметным деталям фасада. Слева и справа от центрального входа — два выступающих крыла, над каждым сложные сюжеты:\n• Трио слева от входа — это образы Поэзии, Трагедии и Комедии.\n• Трио справа указывает нам на то, что здесь не только театр, но и опера — для этого архитектор разместил аллегории Музыки, Оперы и Оперетты.\n• Два каменных бюста ниже — это Радость и Печаль.\n\nМежду двумя крыльями здания высечена надпись «Kraków Narodowej Sztuce», то есть «Краков — национальному искусству». Это отсылка к тому, что театр был построен на общественные средства.\n\nИнтересный факт, хоть и малоизвестный даже среди краковян, сыгравший ключевую роль в том, что выбор города качнулся в пользу театра. Один граф с Подолья был так впечатлён постановкой ещё в том, старом, Городском театре, что посмертно задонатил всё своё имущество на постройку нового здания. Сумма не покрывала полностью постройку, но оказалась достаточно внушительной, чтобы отложить на потом проект городской канализации.\n\nПри постройке красивого и, по тем временам, современного театра, архитектору, всё же, не удалось избежать и провалов. В театре с плюшевой мебелью, зрительным залом в 4 уровня и изначальной вместимостью более 900 зрителей, предусматривался один единственный туалет — на партере. Представьте себе очередь, которую нужно было отстоять зрителям, сбегающим несколько лестничных пролётов с верхнего этажа во время антракта.\n\nТем не менее, многие премьеры театра впоследствии получат историческое значение в масштабе объединённой Польши. В 1896 году в краковском театре состоялся первый кинопоказ на аппаратуре братьев Люмьер. Это была любовь с первого кадра! И сегодня в Кракове ежегодно проходят международные кинофестивали, конкурсы и летние кинопоказы под открытым небом.\n\nНовый театр был единственным в Кракове, поэтому публика была вынуждена адаптироваться к предлагаемому репертуару. В 1901 году здесь состоялась скандальная премьера драмы Станислава Выспяньского «Wesele», то есть «Свадьба».\n\nВ чём скандал? Творческая интеллигенция того периода взяла за моду брать в жёны крестьянок, чтобы продемонстрировать свою т.н. «близость к народу». Такие грубые мезальянсы очень возмущали общественность, а особенно, польских феминисток первой волны. И драма Выспяньского основана, как раз, на реальном событии — центральным сюжетом произведения стала свадьба его друга-поэта с подкраковской крестьянкой.\n\nЭто сегодня произведение является культовым, его знает каждый польский школьник, а многие фразы разошлись на цитаты и стали крылатыми. А тогда его не оценила ни творческая элита, ни широкая общественность. Сами актёры на пробах швыряли сценарии и отказывались участвовать в этой «ерунде».\n\nСловом, Городской театр получился новаторским и роскошным, как всё роскошное — дорогим, и как всё дорогое — скандальным. А мы двигаемся от театрального блеска к старым стенам города. Точнее, к тому, что от них осталось. Развернитесь спиной к театру, пройдите направо до конца улицы и остановитесь у ближайшей башни со странным названием «Башня пасамоников». Вы увидите, что, в отличие от построек духаков, часть средневекового оборонительного кольца города удалось сохранить. Без скандалов и протестов, однако благодаря очень неординарному аргументу."
+      },
+      "transcript": {
+        "en": "The first 20 years after the new Municipal Theater building opened passed under the patronage of Aleksander Fredro. That’s his bust you see in front of the main entrance. Count Aleksander Fredro is called the father of Polish comedy — over the new theater’s first 2 decades, 77 premieres of his works were staged here. And everyone had long grown used to their patron when, in 1909, the Municipal Theater was suddenly renamed in honor of Juliusz Słowacki — one of the “Three Bards” of Polish literature. His 100th birthday simply happened to fall in 1909.\n\nLet’s take a closer look at the most eye-catching details of the facade. To the left and right of the main entrance are two projecting wings, each crowned with an elaborate group of figures:\n• The trio to the left of the entrance stands for Poetry, Tragedy and Comedy.\n• The trio on the right tells us this is not just a theater but an opera house too — that’s why the architect placed allegories of Music, Opera and Operetta here.\n• The two stone busts below are Joy and Sorrow.\n\nBetween the two wings you’ll see the carved inscription “Kraków Narodowej Sztuce,” that is, “Kraków — to National Art.” It’s a nod to the fact that the theater was built with money from the public.\n\nHere’s an interesting fact, little known even among Kraków locals, that played a key role in tipping the city’s choice toward the theater. A certain count from Podolia was so impressed by a production back in the old Municipal Theater that he posthumously donated everything he owned to building a new one. The sum didn’t cover the whole construction, but it was big enough to put the city sewer project off until later.\n\nStill, in building a beautiful and, for its day, modern theater, the architect didn’t manage to avoid a few flops. A theater with plush furniture, an auditorium on 4 levels and an original capacity of more than 900 people had one single restroom — on the orchestra level. Just picture the line waiting for the theatergoers who came racing down several flights of stairs from the top floor at intermission.\n\nEven so, many of the theater’s premieres would later take on historic importance for all of reunited Poland. In 1896 the Kraków theater hosted the first film screening on the Lumière brothers’ equipment. It was love at first frame! And to this day Kraków holds international film festivals, competitions and open-air summer screenings every year.\n\nThe new theater was the only one in Kraków, so audiences had to adapt to whatever repertoire was on offer. In 1901 it hosted the scandalous premiere of Stanisław Wyspiański’s drama “Wesele” (“The Wedding”).\n\nWhat was the scandal? The artistic intelligentsia of the time had made it fashionable to marry peasant girls to show off their so-called “closeness to the people.” Such glaring misalliances outraged the public, and above all Poland’s first-wave feminists. And Wyspiański’s drama is based on just such a real event — its central plot is the wedding of his friend, a poet, to a peasant girl from a village outside Kraków.\n\nToday the play is a cult classic: every Polish schoolkid knows it, and many of its lines have become famous quotes and catchphrases. But back then neither the artistic elite nor the general public appreciated it. The actors themselves threw down their scripts at rehearsals and refused to take part in this “nonsense.”\n\nIn short, the Municipal Theater turned out innovative and luxurious, and like everything luxurious — expensive, and like everything expensive — scandalous. And now we’re heading from theatrical glitter to the old city walls. Or rather, to what’s left of them. Turn your back to the theater, walk to the right to the end of the street and stop at the nearest tower, which goes by the strange name Baszta Pasamoników, the Haberdashers’ Tower. You’ll see that, unlike the Duchacy’s buildings, part of the city’s medieval defensive ring was saved. Without scandals or protests, but thanks to a very unusual argument.",
+        "ru": "Первые 20 лет со дня открытия нового здания Городского театра прошли под покровительством Александра Фредро. Это его бюст вы видите перед центральным входом. Графа Александра Фредро называют отцом польской комедии — за первые 2 десятилетия нового театра здесь состоялось 77 премьер его произведений. И все уже привыкли к патрону, когда в 1909 году Городской театр неожиданно переименовали в честь Юлиуша Словацкого — одного из «Трёх пророков» польской литературы. У того на 1909 год просто пришлось 100-летие со Дня рождения.\n\nПрисмотримся к самым заметным деталям фасада. Слева и справа от центрального входа — два выступающих крыла, над каждым сложные сюжеты:\n• Трио слева от входа — это образы Поэзии, Трагедии и Комедии.\n• Трио справа указывает нам на то, что здесь не только театр, но и опера — для этого архитектор разместил аллегории Музыки, Оперы и Оперетты.\n• Два каменных бюста ниже — это Радость и Печаль.\n\nМежду двумя крыльями здания высечена надпись «Kraków Narodowej Sztuce», то есть «Краков — национальному искусству». Это отсылка к тому, что театр был построен на общественные средства.\n\nИнтересный факт, хоть и малоизвестный даже среди краковян, сыгравший ключевую роль в том, что выбор города качнулся в пользу театра. Один граф с Подолья был так впечатлён постановкой ещё в том, старом, Городском театре, что посмертно задонатил всё своё имущество на постройку нового здания. Сумма не покрывала полностью постройку, но оказалась достаточно внушительной, чтобы отложить на потом проект городской канализации.\n\nПри постройке красивого и, по тем временам, современного театра, архитектору, всё же, не удалось избежать и провалов. В театре с плюшевой мебелью, зрительным залом в 4 уровня и изначальной вместимостью более 900 зрителей, предусматривался один единственный туалет — на партере. Представьте себе очередь, которую нужно было отстоять зрителям, сбегающим несколько лестничных пролётов с верхнего этажа во время антракта.\n\nТем не менее, многие премьеры театра впоследствии получат историческое значение в масштабе объединённой Польши. В 1896 году в краковском театре состоялся первый кинопоказ на аппаратуре братьев Люмьер. Это была любовь с первого кадра! И сегодня в Кракове ежегодно проходят международные кинофестивали, конкурсы и летние кинопоказы под открытым небом.\n\nНовый театр был единственным в Кракове, поэтому публика была вынуждена адаптироваться к предлагаемому репертуару. В 1901 году здесь состоялась скандальная премьера драмы Станислава Выспяньского «Wesele», то есть «Свадьба».\n\nВ чём скандал? Творческая интеллигенция того периода взяла за моду брать в жёны крестьянок, чтобы продемонстрировать свою т.н. «близость к народу». Такие грубые мезальянсы очень возмущали общественность, а особенно, польских феминисток первой волны. И драма Выспяньского основана, как раз, на реальном событии — центральным сюжетом произведения стала свадьба его друга-поэта с подкраковской крестьянкой.\n\nЭто сегодня произведение является культовым, его знает каждый польский школьник, а многие фразы разошлись на цитаты и стали крылатыми. А тогда его не оценила ни творческая элита, ни широкая общественность. Сами актёры на пробах швыряли сценарии и отказывались участвовать в этой «ерунде».\n\nСловом, Городской театр получился новаторским и роскошным, как всё роскошное — дорогим, и как всё дорогое — скандальным. А мы двигаемся от театрального блеска к старым стенам города. Точнее, к тому, что от них осталось. Развернитесь спиной к театру, пройдите направо до конца улицы и остановитесь у ближайшей башни со странным названием «Башня пасамоников». Вы увидите, что, в отличие от построек духаков, часть средневекового оборонительного кольца города удалось сохранить. Без скандалов и протестов, однако благодаря очень неординарному аргументу."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/roskoshny-maximum/audio/ru/stop-teatr-slowackiego.mp3",
+        "ru": "assets/route_media/roskoshny-maximum/audio/ru/stop-teatr-slowackiego.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-teatr-slowackiego-01",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-teatr-slowackiego/01.jpg"
+        },
+        {
+          "assetId": "stop-teatr-slowackiego-02",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-teatr-slowackiego/02.jpg"
+        },
+        {
+          "assetId": "stop-teatr-slowackiego-03",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-teatr-slowackiego/03.jpg"
+        },
+        {
+          "assetId": "stop-teatr-slowackiego-04",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-teatr-slowackiego/04.jpg"
+        },
+        {
+          "assetId": "stop-teatr-slowackiego-05",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-teatr-slowackiego/05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-mury-obronne",
+      "routeId": "route-roskoshny-maximum",
+      "orderIndex": 3,
+      "latitude": 50.064667,
+      "longitude": 19.942194,
+      "audioTrackId": "audio-stop-mury-obronne",
+      "title": {
+        "en": "City Walls and St. Florian’s Gate",
+        "ru": "Стены и Флорианские ворота"
+      },
+      "summary": {
+        "en": "Guild towers, the Lajkonik and the argument about windblown skirts that saved the walls.",
+        "ru": "Башни ремесленных цехов, Лайконик и довод о задранных юбках, который спас стены."
+      },
+      "body": {
+        "en": "For its ambitions, and for the fact that today we can stand here admiring the theater’s pompous facade, Kraków paid with its memory. But the real luxury in a medieval city was security. In the 13th century Kraków suffered devastating Mongol-Tatar raids again and again, and every time “wooden Kraków” went up like a torch.\n\nAfter yet another raid, the King of Poland, Leszek the Black, allowed the city to be surrounded with mighty stone fortifications. Construction began at the end of the 13th century and went on for decades.\n\nThe city was encircled by a ring of stone walls with a system of gates and towers. Guarding them was the job of the craft guilds, each of which, in case of an enemy attack, had to defend the stretch entrusted to it. That’s how the towers got their names. The tower we’re standing next to, for example, is called the Haberdashers’ Tower (Baszta Pasamoników). “Pasamonik” is an old Polish word for a passementerie maker — a craftsman who made belts, ribbons, cords and other haberdashery.\n\nLooking down the street, we’ll see 3 more surviving defensive towers — the Joiners’ Tower, the Furriers’ Tower — above St. Florian’s Gate — and, farthest away, the Carpenters’ Tower. Here it’s easy to guess which craft guilds guarded them.\n\nThe idea of building a defensive ring around the city turned out to be very timely — Kraków managed to fight off the next invasion. The city held out, and the events themselves grew a whole crop of legends. One of the best known is the story of the Lajkonik. According to legend, the Tatars set up camp near the city but were caught off guard by Kraków’s raftsmen, who attacked them at night. Once the enemy had been driven off, the raftsmen’s leader put on the khan’s Tatar clothes and rode triumphantly into the city on horseback. Over time the story turned into a colorful city festival. Every year in June the Lajkonik makes his way through the streets of Kraków — a man in Eastern costume on a wooden horse, a reminder of the victory over the Tatars.\n\nTeaching the townspeople to defend themselves was the job of a marksmen’s society, the Kraków Fowler Brotherhood (Bractwo Kurkowe). Its members learned to shoot bows, crossbows and, later on, firearms. Once a year they held a shooting contest, aiming at a wooden hen set up on a tall pole. The winner was proclaimed Fowler King for the following year and awarded a silver hen.\n\nThe tradition has survived to this day. It’s one of the oldest brotherhoods in the world, with 700 years of history. Today the brotherhood no longer defends the city, but it does charity and community work.\n\nKraków’s defensive system was considered one of the most advanced in Central Europe. The city was surrounded by double walls. The inner wall rose to roughly 8–10 meters and was about two meters thick. In front of it stood a lower outer wall. Between them ran a defensive corridor that the defenders could move along. Outside, the fortifications were ringed by a wide moat filled with water, and the only way into the city was through the gates. At night the gates were locked, and travelers who arrived too late had to wait outside the walls until morning.\n\nWalk on along the walls and stop at the gate. In front of you is the city’s main gate — St. Florian’s Gate (Brama Floriańska). It’s named after St. Florian, the patron saint of Kraków and protector against fires. The gate tower rises almost thirty-five meters, and up top you can see a relief of the saint putting out a fire. You’d logically assume the tower was looked after by firefighters, but there was no such guild at all, and the ones holding the defense here were the furriers, who dressed and sewed hides and furs.\n\nSt. Florian’s Gate was not only a fortification but also Kraków’s “triumphal arch.” Polish kings, bishops, envoys and foreign diplomats made their ceremonial entrance into the city through it.\n\nIn its prime era, the defensive system counted some forty-seven towers and eight main city gates. But by the end of the 18th century artillery had made medieval fortifications useless. The moat turned into a source of filth and foul smells, and the empty fortifications became a refuge for rats, criminals and courtesans.\n\nThe Austrian authorities who ruled Kraków at the time didn’t have a sentimental bone in their bodies when it came to the city’s architectural heritage. And to many people, the fortifications of old Kraków, crumbling before their very eyes, looked like excellent building material for new townhouses and homes right next to the center.\n\nSo, at the beginning of the 19th century, an imperial decree declared Kraków an open city, which sealed the fate of the city walls. It seemed the defensive system would vanish completely, but Professor and Senator Feliks Radwański stepped up to defend it. He tried every argument he could think of to save the showpiece stretch of the city’s fortifications. But the decisive one, unexpectedly, turned out to be meteorological. The professor warned that if the walls were torn down, snowstorms sweeping in from the north would blow snow straight into the middle of the Main Market Square, exposing women and children to gumboils, rheumatism and even paralysis. What’s more, winds that strong would lift the long skirts of ladies strolling along Floriańska Street, which would lead to the corruption of morals. These “trump-card” arguments hit their mark and persuaded the authorities to preserve St. Florian’s Gate and part of the adjoining fortifications.\n\nIt’s right here, standing by this small surviving stretch of wall with its four towers, that you can best picture what Kraków’s defensive walls looked like several centuries ago. With one difference: today, when you enter the city the same way kings entered it 700 years ago, you’re greeted by artists, not guards.",
+        "ru": "За свои амбиции и то, что мы с вами сегодня можем разглядывать помпезный фасад здания театра, Краков заплатил памятью. Но настоящей роскошью в средневековом городе была безопасность. В XIII веке Краков неоднократно подвергался разрушительным наездам монголо-татар, и в каждый из них «деревянный Краков» вспыхивал как факел.\n\nКороль Польши Лешек Чёрный, после очередного наезда, разрешил окружить город мощными каменными укреплениями. Строительство началось в конце XIII века и продолжалось десятилетиями.\n\nГород был окружён кольцом каменных стен с системой ворот и башен. Их охрана была возложена на ремесленные цеха, которые в случае вражеской атаки были обязаны защищать вверенный им участок. Так башни и получили свои названия. Вот, например, башня, у которой мы стоим, называется башней пасамоников. Пасамоник — это устаревшее польское название ремесленника, занимающегося изготовлением пасмантерии: поясов, лент, шнуров и другой галантереи.\n\nВглядываясь вглубь улицы, мы увидим ещё 3 сохранившиеся оборонительных башни — Столярскую, Скорнякскую — над Флорианскими воротами — и дальнюю, Плотницкую. Тут мы уже легко можем догадаться, какие ремесленные гильдии их охраняли.\n\nИнициатива постройки оборонительного кольца вокруг города пришлась очень кстати — Кракову удалось отбить очередное нападение захватчиков. Город выстоял, а сами события обросли множеством легенд. Одна из самых известных — о Лайконике. Согласно легенде, татары устроили лагерь возле города, но были застигнуты врасплох краковскими плотогонами, которые напали на них ночью. После того, как враг был отбит, предводитель плотогонов надел татарскую одежду хана и триумфально въехал в город верхом на коне. Со временем история превратилась в красочный городской праздник. Ежегодно в июне по улицам Кракова проходит Лайконик — человек в восточном костюме на деревянном коне, напоминающий о победе над татарами.\n\nОбучением горожан обороне занималось стрелецкое Краковское курковое братство. Его участники учились стрельбе из лука, арбалета, а позже — и из огнестрельного оружия. Раз в год проводили соревнования по стрельбе по деревянной курице, установленной на высоком шесте. Победитель объявлялся Курковым королём на следующий год и награждался серебряной фигурой куры.\n\nТрадиция сохранилась до наших дней. Это одно из самых старых братств в мире, насчитывающее 700-летнюю историю. Сегодня братство уже не участвует в обороне города, но осуществляет благотворительную и общественную деятельность.\n\nОборонительная система Кракова считалась одной из самых совершенных в Центральной Европе. Город окружали двойные стены. Внутренняя стена достигала примерно 8–10 метров высоты и имела толщину около двух метров. Перед ней располагалась более низкая внешняя стена. Между ними проходил оборонительный коридор, по которому могли перемещаться защитники. Снаружи укрепления окружал широкий ров, заполненный водой, а попасть в город можно было только через ворота. На ночь ворота запирали, а опоздавшим путешественникам приходилось ждать утра за стенами.\n\nПройдите дальше вдоль стен и остановитесь у ворот. Перед вами главные ворота города — Флорианские. Они получили своё название в честь святого Флориана, покровителя Кракова и защитника от пожаров. Башня ворот поднимается почти на тридцать пять метров, а наверху можно увидеть рельеф святого, тушащего пожар. Логично предположить, что башню опекали пожарные, но такого цеха вообще не было, и оборону здесь держали скорняки, которые занимались выделкой и шитьём шкур и меха.\n\nФлорианские ворота были не только оборонительным сооружением, но и «триумфальной аркой» Кракова. Через них в город торжественно въезжали польские короли, епископы, послы и иностранные дипломаты.\n\nВ свою прайм-эру оборонительная система насчитывала около сорока семи башен и восемь главных городских ворот. Однако к концу XVIII века артиллерия сделала средневековые укрепления бесполезными. Ров превратился в источник грязи и неприятного запаха, а пустующие укрепления стали убежищем для крыс, преступников и куртизанок.\n\nАвстрийские власти, управлявшие тогда Краковом, не питали никаких сентиментов к архитектурному наследию города. А разваливающиеся на глазах укрепления старого Кракова многим виделись отличным строительным материалом для новых камениц и домов в непосредственной близости к центру.\n\nТак, в начале XIX века императорским декретом Краков объявлялся открытым городом, что определяло судьбу городских стен. Казалось, что оборонительная система исчезнет полностью, однако на её защиту встал профессор и сенатор Феликс Радваньский. Он прибег к самой разносторонней аргументации, пытаясь спасти наиболее репрезентативный участок городских укреплений. Но неожиданно решающим стал довод метеорологического характера. Профессор предостерегал, что в случае разрушения стен снежные бури, приходящие с северной стороны города, будут задувать снег прямо в центр Рыночной площади и, тем самым, подвергать женщин и детей флюсу, ревматизму и даже параличу. К тому же, такие сильные ветра задирали бы длинные юбки женщин, прогуливающихся по Флорианской улице, что было бы причиной развращения нравов. Эти «коронные» аргументы достигли цели и убедили власти сохранить Флорианские ворота и часть прилегающих укреплений.\n\nИменно здесь, стоя у этого небольшого сохранившегося участка стены с четырьмя башнями, лучше всего можно себе представить, как выглядели оборонительные стены Кракова несколько веков назад. С тем отличием, что входя в город так же, как входили в него короли 700 лет назад, сегодня вас встречают художники, а не стража."
+      },
+      "transcript": {
+        "en": "For its ambitions, and for the fact that today we can stand here admiring the theater’s pompous facade, Kraków paid with its memory. But the real luxury in a medieval city was security. In the 13th century Kraków suffered devastating Mongol-Tatar raids again and again, and every time “wooden Kraków” went up like a torch.\n\nAfter yet another raid, the King of Poland, Leszek the Black, allowed the city to be surrounded with mighty stone fortifications. Construction began at the end of the 13th century and went on for decades.\n\nThe city was encircled by a ring of stone walls with a system of gates and towers. Guarding them was the job of the craft guilds, each of which, in case of an enemy attack, had to defend the stretch entrusted to it. That’s how the towers got their names. The tower we’re standing next to, for example, is called the Haberdashers’ Tower (Baszta Pasamoników). “Pasamonik” is an old Polish word for a passementerie maker — a craftsman who made belts, ribbons, cords and other haberdashery.\n\nLooking down the street, we’ll see 3 more surviving defensive towers — the Joiners’ Tower, the Furriers’ Tower — above St. Florian’s Gate — and, farthest away, the Carpenters’ Tower. Here it’s easy to guess which craft guilds guarded them.\n\nThe idea of building a defensive ring around the city turned out to be very timely — Kraków managed to fight off the next invasion. The city held out, and the events themselves grew a whole crop of legends. One of the best known is the story of the Lajkonik. According to legend, the Tatars set up camp near the city but were caught off guard by Kraków’s raftsmen, who attacked them at night. Once the enemy had been driven off, the raftsmen’s leader put on the khan’s Tatar clothes and rode triumphantly into the city on horseback. Over time the story turned into a colorful city festival. Every year in June the Lajkonik makes his way through the streets of Kraków — a man in Eastern costume on a wooden horse, a reminder of the victory over the Tatars.\n\nTeaching the townspeople to defend themselves was the job of a marksmen’s society, the Kraków Fowler Brotherhood (Bractwo Kurkowe). Its members learned to shoot bows, crossbows and, later on, firearms. Once a year they held a shooting contest, aiming at a wooden hen set up on a tall pole. The winner was proclaimed Fowler King for the following year and awarded a silver hen.\n\nThe tradition has survived to this day. It’s one of the oldest brotherhoods in the world, with 700 years of history. Today the brotherhood no longer defends the city, but it does charity and community work.\n\nKraków’s defensive system was considered one of the most advanced in Central Europe. The city was surrounded by double walls. The inner wall rose to roughly 8–10 meters and was about two meters thick. In front of it stood a lower outer wall. Between them ran a defensive corridor that the defenders could move along. Outside, the fortifications were ringed by a wide moat filled with water, and the only way into the city was through the gates. At night the gates were locked, and travelers who arrived too late had to wait outside the walls until morning.\n\nWalk on along the walls and stop at the gate. In front of you is the city’s main gate — St. Florian’s Gate (Brama Floriańska). It’s named after St. Florian, the patron saint of Kraków and protector against fires. The gate tower rises almost thirty-five meters, and up top you can see a relief of the saint putting out a fire. You’d logically assume the tower was looked after by firefighters, but there was no such guild at all, and the ones holding the defense here were the furriers, who dressed and sewed hides and furs.\n\nSt. Florian’s Gate was not only a fortification but also Kraków’s “triumphal arch.” Polish kings, bishops, envoys and foreign diplomats made their ceremonial entrance into the city through it.\n\nIn its prime era, the defensive system counted some forty-seven towers and eight main city gates. But by the end of the 18th century artillery had made medieval fortifications useless. The moat turned into a source of filth and foul smells, and the empty fortifications became a refuge for rats, criminals and courtesans.\n\nThe Austrian authorities who ruled Kraków at the time didn’t have a sentimental bone in their bodies when it came to the city’s architectural heritage. And to many people, the fortifications of old Kraków, crumbling before their very eyes, looked like excellent building material for new townhouses and homes right next to the center.\n\nSo, at the beginning of the 19th century, an imperial decree declared Kraków an open city, which sealed the fate of the city walls. It seemed the defensive system would vanish completely, but Professor and Senator Feliks Radwański stepped up to defend it. He tried every argument he could think of to save the showpiece stretch of the city’s fortifications. But the decisive one, unexpectedly, turned out to be meteorological. The professor warned that if the walls were torn down, snowstorms sweeping in from the north would blow snow straight into the middle of the Main Market Square, exposing women and children to gumboils, rheumatism and even paralysis. What’s more, winds that strong would lift the long skirts of ladies strolling along Floriańska Street, which would lead to the corruption of morals. These “trump-card” arguments hit their mark and persuaded the authorities to preserve St. Florian’s Gate and part of the adjoining fortifications.\n\nIt’s right here, standing by this small surviving stretch of wall with its four towers, that you can best picture what Kraków’s defensive walls looked like several centuries ago. With one difference: today, when you enter the city the same way kings entered it 700 years ago, you’re greeted by artists, not guards.",
+        "ru": "За свои амбиции и то, что мы с вами сегодня можем разглядывать помпезный фасад здания театра, Краков заплатил памятью. Но настоящей роскошью в средневековом городе была безопасность. В XIII веке Краков неоднократно подвергался разрушительным наездам монголо-татар, и в каждый из них «деревянный Краков» вспыхивал как факел.\n\nКороль Польши Лешек Чёрный, после очередного наезда, разрешил окружить город мощными каменными укреплениями. Строительство началось в конце XIII века и продолжалось десятилетиями.\n\nГород был окружён кольцом каменных стен с системой ворот и башен. Их охрана была возложена на ремесленные цеха, которые в случае вражеской атаки были обязаны защищать вверенный им участок. Так башни и получили свои названия. Вот, например, башня, у которой мы стоим, называется башней пасамоников. Пасамоник — это устаревшее польское название ремесленника, занимающегося изготовлением пасмантерии: поясов, лент, шнуров и другой галантереи.\n\nВглядываясь вглубь улицы, мы увидим ещё 3 сохранившиеся оборонительных башни — Столярскую, Скорнякскую — над Флорианскими воротами — и дальнюю, Плотницкую. Тут мы уже легко можем догадаться, какие ремесленные гильдии их охраняли.\n\nИнициатива постройки оборонительного кольца вокруг города пришлась очень кстати — Кракову удалось отбить очередное нападение захватчиков. Город выстоял, а сами события обросли множеством легенд. Одна из самых известных — о Лайконике. Согласно легенде, татары устроили лагерь возле города, но были застигнуты врасплох краковскими плотогонами, которые напали на них ночью. После того, как враг был отбит, предводитель плотогонов надел татарскую одежду хана и триумфально въехал в город верхом на коне. Со временем история превратилась в красочный городской праздник. Ежегодно в июне по улицам Кракова проходит Лайконик — человек в восточном костюме на деревянном коне, напоминающий о победе над татарами.\n\nОбучением горожан обороне занималось стрелецкое Краковское курковое братство. Его участники учились стрельбе из лука, арбалета, а позже — и из огнестрельного оружия. Раз в год проводили соревнования по стрельбе по деревянной курице, установленной на высоком шесте. Победитель объявлялся Курковым королём на следующий год и награждался серебряной фигурой куры.\n\nТрадиция сохранилась до наших дней. Это одно из самых старых братств в мире, насчитывающее 700-летнюю историю. Сегодня братство уже не участвует в обороне города, но осуществляет благотворительную и общественную деятельность.\n\nОборонительная система Кракова считалась одной из самых совершенных в Центральной Европе. Город окружали двойные стены. Внутренняя стена достигала примерно 8–10 метров высоты и имела толщину около двух метров. Перед ней располагалась более низкая внешняя стена. Между ними проходил оборонительный коридор, по которому могли перемещаться защитники. Снаружи укрепления окружал широкий ров, заполненный водой, а попасть в город можно было только через ворота. На ночь ворота запирали, а опоздавшим путешественникам приходилось ждать утра за стенами.\n\nПройдите дальше вдоль стен и остановитесь у ворот. Перед вами главные ворота города — Флорианские. Они получили своё название в честь святого Флориана, покровителя Кракова и защитника от пожаров. Башня ворот поднимается почти на тридцать пять метров, а наверху можно увидеть рельеф святого, тушащего пожар. Логично предположить, что башню опекали пожарные, но такого цеха вообще не было, и оборону здесь держали скорняки, которые занимались выделкой и шитьём шкур и меха.\n\nФлорианские ворота были не только оборонительным сооружением, но и «триумфальной аркой» Кракова. Через них в город торжественно въезжали польские короли, епископы, послы и иностранные дипломаты.\n\nВ свою прайм-эру оборонительная система насчитывала около сорока семи башен и восемь главных городских ворот. Однако к концу XVIII века артиллерия сделала средневековые укрепления бесполезными. Ров превратился в источник грязи и неприятного запаха, а пустующие укрепления стали убежищем для крыс, преступников и куртизанок.\n\nАвстрийские власти, управлявшие тогда Краковом, не питали никаких сентиментов к архитектурному наследию города. А разваливающиеся на глазах укрепления старого Кракова многим виделись отличным строительным материалом для новых камениц и домов в непосредственной близости к центру.\n\nТак, в начале XIX века императорским декретом Краков объявлялся открытым городом, что определяло судьбу городских стен. Казалось, что оборонительная система исчезнет полностью, однако на её защиту встал профессор и сенатор Феликс Радваньский. Он прибег к самой разносторонней аргументации, пытаясь спасти наиболее репрезентативный участок городских укреплений. Но неожиданно решающим стал довод метеорологического характера. Профессор предостерегал, что в случае разрушения стен снежные бури, приходящие с северной стороны города, будут задувать снег прямо в центр Рыночной площади и, тем самым, подвергать женщин и детей флюсу, ревматизму и даже параличу. К тому же, такие сильные ветра задирали бы длинные юбки женщин, прогуливающихся по Флорианской улице, что было бы причиной развращения нравов. Эти «коронные» аргументы достигли цели и убедили власти сохранить Флорианские ворота и часть прилегающих укреплений.\n\nИменно здесь, стоя у этого небольшого сохранившегося участка стены с четырьмя башнями, лучше всего можно себе представить, как выглядели оборонительные стены Кракова несколько веков назад. С тем отличием, что входя в город так же, как входили в него короли 700 лет назад, сегодня вас встречают художники, а не стража."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/roskoshny-maximum/audio/ru/stop-mury-obronne.mp3",
+        "ru": "assets/route_media/roskoshny-maximum/audio/ru/stop-mury-obronne.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-mury-obronne-01",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-mury-obronne/01.jpg"
+        },
+        {
+          "assetId": "stop-mury-obronne-02",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-mury-obronne/02.jpg"
+        },
+        {
+          "assetId": "stop-mury-obronne-03",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-mury-obronne/03.jpg"
+        },
+        {
+          "assetId": "stop-mury-obronne-04",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-mury-obronne/04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-muzeum-czartoryskich",
+      "routeId": "route-roskoshny-maximum",
+      "orderIndex": 4,
+      "latitude": 50.06475,
+      "longitude": 19.9406,
+      "audioTrackId": "audio-stop-muzeum-czartoryskich",
+      "title": {
+        "en": "Wall Gallery and Czartoryski Museum",
+        "ru": "Галерея на стенах и музей Чарторыйских"
+      },
+      "summary": {
+        "en": "Paintings on the city walls, a bridge between palaces and a collection that was really the princess’s.",
+        "ru": "Картины на городских стенах, мост между дворцами и коллекция, которую на самом деле собрала княгиня."
+      },
+      "body": {
+        "en": "Along the city walls, between St. Florian’s Gate and the Carpenters’ Tower, there’s an open-air gallery. Amateur artists, students from the Academy of Fine Arts, and local painters display their work here. The “Florian Walls” gallery, which dates back to before the war, has been an integral part of Kraków for many decades, creating a unique, charming little corner in this part of the Old Town. The paintings are mostly aimed at the not-too-demanding tourist. And sales are guaranteed by the gallery’s neighbor — a statue of the Roman god of commerce, Mercury. Go on, step a little closer to him.\n\nWe’re now in what’s known as Princes Czartoryski Lane (Zaułek Książąt Czartoryskich). You’ll easily spot the elegant bridge spanning the narrow street. It connects the two parts of the Czartoryski princes’ palace-and-museum complex. Today they house the collection of the family that donated it to Kraków. The museum is famous above all for the painting it holds — Leonardo da Vinci’s “Lady with an Ermine.”\n\nBut the museum is interesting not only for what’s inside, but also for its own history. Here are a few curious facts.\n\nFirst, it’s a perfect illustration of what’s now called “the Matilda effect” — when ideas, work, or discoveries that actually belong to a woman get credited to a man. For a long time, all the credit for the collection went to Adam Kazimierz Czartoryski. In reality, though, it wasn’t the prince who started the collection, but his wife, Izabela Czartoryska, née von Flemming. The prince himself not only didn’t share his wife’s passion for collecting — he never missed a chance to troll her about her strange hobby. Once he had his worn-out old shoe delivered to Izabela, with a note attached saying it was “Genghis Khan’s boot.”\n\nThere are suspicions that the princess’s collection contained quite a few fakes. Izabela used all sorts of methods to add to it and wasn’t above theft or petty acts of vandalism. The collection included “a piece of the elk-hide jacket of the Swedish king Gustavus Adolphus,” which the duchess cut out personally at the Vienna Arsenal. That particular artifact hasn’t survived, but the contents of some of the “reliquaries” of famous Poles have drawn wide criticism and are still considered questionable to this day.\n\nAt first, Izabela was interested specifically in Polish historical relics — not in art at all. After the Third Partition of the Polish-Lithuanian Commonwealth among Russia, Prussia, and Austria-Hungary, Poland vanished from the maps of the world. Czartoryska hoped that when Poland regained its independence, this collection would serve as a reminder of the nation’s greatness. It was assembled under the motto “The Past to the Future.”\n\nThe Czartoryski princes’ private collection was originally kept not in Kraków at all, but in Puławy — the Czartoryski family estate in Lublin Province. More precisely, in a small rotunda in the park surrounding the residence. Opened to visitors in 1801, this collection of relics became not only the first Polish museum, but also the world’s first museum devoted to the history of a nation. The museum at Versailles, built on a similar concept, opened only thirty years later.\n\nAfter the defeat in the Polish-Russian War of 1830–31, the Czartoryskis were forced to take a large part of the collection out of the family estate. The thing is, Izabela’s son had been the head of the insurgent government. It was clear that the reprisals would be aimed mainly at their family and that all their property would be confiscated. So the most valuable pieces were gradually moved to the Czartoryskis’ main residence in France — the Hôtel Lambert in Paris.\n\nWhile the collection was in Paris, its whole concept changed: whereas Izabela had mostly acquired historical mementos that once belonged to prominent figures, her grandson Władysław built a more modern collection, gathering works of art. That’s the direction in which the family collection grew, and it stayed in Paris until the 1870s.\n\nSo what happened in the 1870s? It turned out that the Czartoryski collection wasn’t nearly as safe in Paris as it might have seemed. First came the Franco-Prussian War, then a revolution and the short-lived but nonetheless brutal Paris Commune. The Czartoryskis decided to move the collection to Polish soil. And that’s how it ended up in Kraków. Why Kraków? Because since the late 1860s, the city had enjoyed relatively broad freedoms under Galician autonomy.\n\nThe city donated the former arsenal for the museum — a building set between two towers, where weapons and ammunition were once stored. Czartoryski himself bought several buildings on the neighboring streets, as well as part of a monastery. They were all rebuilt and joined together — among other things, by building that bridge over the street we just mentioned. The bridge itself was decorated with the coats of arms of the Czartoryski family and the families connected to them. The museum collection officially opened in 1876.\n\nThe pride of the collection is its European painting from the 15th to the 18th centuries, including such masterpieces as Leonardo da Vinci’s “Lady with an Ermine” and Rembrandt’s “Landscape with the Good Samaritan.” Sadly, part of the collection was stolen by the Nazis during World War II — and to this day no one knows the fate of the third masterpiece of the Czartoryski picture gallery — Raphael’s “Portrait of a Young Man.” But the museum’s holdings aren’t limited to painting. It also has a rich collection of ancient art.\n\nAfter the most recent renovation, which began in 2010 and took almost 10 years, the courtyard got a glass roof. Beneath it is the Leonardo Cafe, famous for its Mediterranean atmosphere and real olive trees. You can have coffee and dessert here, or try a European-style lunch surrounded by greenery. Entry to the cafe is free.",
+        "ru": "Вдоль городских стен, между Воротами Святого Флориана и Плотницкой башней, находится галерея под открытым небом. Здесь выставляют работы художники-любители, студенты Академии изящных искусств и местные авторы. Галерея «Флорианские стены», существовавшая ещё до войны, уже много десятилетий является неотъемлемой частью Кракова, создавая уникальный, очаровательный уголок в этой части старого города. Картины, главным образом, рассчитаны на невзыскательного туриста. А продажи обеспечены за счёт соседства галереи со статуей римского бога торговли — Меркурия. Подойдите ближе к нему.\n\nМы находимся в так называемом Заулке князей Чарторыйских. Вы легко заметите изящный мост, перекинутый через узкую улицу. Он соединяет две части дворцово-музейного комплекса князей Чарторыйских. Сегодня в них размещается Собрание семьи, которая пожертвовала свою коллекцию Кракову. Известен музей, главным образом, благодаря находящейся в нём картине Леонардо да Винчи «Дама с горностаем».\n\nОднако музей интересен не только содержанием, но и своей историей. Вот несколько любопытных фактов.\n\nВо-первых, это иллюстрация того, что сегодня называют «эффектом Матильды», когда мужчине присваивают идеи, работу или открытия, принадлежащие, на самом деле, женщине. Долгое время все заслуги по коллекционированию приписывались Адаму Казимиру Чарторыйскому. Хотя, в действительности, собрание инициировал не князь, а его жена Изабелла Чарторыйская, урождённая фон Флемминг. Сам же князь не только не разделял страсть жены к коллекционированию, но и не упускал возможности потроллить её из-за странного хобби. Однажды он поручил передать Изабелле свой изношенный башмак, приложив к нему записку, что это «ботинок Чингисхана».\n\nЕсть подозрения, что в коллекции княжны было много подделок. Изабелла использовала различные методы для её пополнения, не брезговала даже кражами и мелкими актами вандализма. В собрании хранился «фрагмент лосиной куртки шведского короля Густава Адольфа», который герцогиня лично вырезала в Венском арсенале. Этот конкретный артефакт не сохранился, но содержимое некоторых «реликвариев» известных поляков подвергалось широкой критике и до сих пор считается спорным.\n\nИзначально Изабеллу интересовали именно польские исторические реликвии, а совсем не искусство. После третьего раздела Речи Посполитой между Россией, Пруссией и Австро-Венгрией, Польша исчезла с мировых карт. Чарторыйская надеялась, что, когда Польша вернёт себе независимость, эта коллекция станет напоминанием о величии нации. Коллекция создавалась под девизом «Прошлое — Будущему».\n\nЧастное собрание князей Чарторыйских изначально располагалось совсем не в Кракове, а в Пулавах — родовой усадьбе Чарторыйских в Люблинском воеводстве. Точнее, в небольшой ротонде в парке, окружающем резиденцию. Открывшееся в 1801 г. для посещения собрание реликвий стало не только первым польским музеем, но и первым в мире музеем, посвящённым истории нации. Музей в Версале, основанный на аналогичной концепции, открылся лишь тридцать лет спустя.\n\nПосле поражения в польско-русской войне 1830-31 гг. Чарторыйские были вынуждены вывезти значительную часть коллекции из родового поместья. Дело в том, что сын Изабеллы был главой повстанческого правительства. Было понятно, что репрессии направят, главным образом, против их семьи, а всё имущество конфискуют. Поэтому самые ценные предметы постепенно перевозят в ключевую французскую резиденцию Чарторыйских — отель «Ламберт» в Париже.\n\nВо время пребывания собрания в Париже, концепция коллекции меняется: если Изабелла в основном приобретала исторические памятные вещи, принадлежавшие выдающимся личностям, то её внук Владислав создавал более современную коллекцию, накапливая произведения искусства. В таком ключе семейное собрание расширяется, а коллекция остаётся в Париже до 1870-х годов.\n\nЧто происходило в 1870-х годах? Оказалось, что коллекция Чарторыйских в Париже не была в такой уж безопасности, как могло показаться. Сначала франко-прусская война, а затем революция и недолгая, но тем не менее, жестокая Парижская коммуна. Чарторыйские принимают решение перевезти коллекцию на польскую землю. Так собрание оказывается в Кракове. Почему Краков? Потому что с конца 1860-х годов город пользовался относительно широкими свободами в рамках Галицкой автономии.\n\nГород пожертвовал под музей бывший арсенал — здание, пристроенное между двумя башнями, в котором когда-то хранилось оружие и боеприпасы. Сам Чарторыйский приобрёл несколько зданий на соседних улицах, а также часть монастыря. Все они были перестроены и объединены в том числе путём строительства вышеупомянутого моста через улицу. Сам мост украсили гербами семьи Чарторыйских и семей, связанных с ними. Музейная коллекция была официально открыта в 1876 году.\n\nГордость коллекции — собрание европейской живописи XV-XVIII веков, в числе которых такие шедевры, как картина Леонардо да Винчи «Дама с горностаем» и Пейзаж Рембрандта с добрым самаритянином. К сожалению, часть коллекции была украдена нацистами во время Второй мировой войны — до сих пор остаётся неизвестной судьба третьего шедевра из живописной галереи князей Чарторыйских — «Портрет юноши» Рафаэля. Но коллекция музея не ограничивается живописью. В ней также хранится богатая коллекция античного искусства.\n\nПосле последней реконструкции, которая длилась почти 10 лет, начиная с 2010 года, внутренний двор получил стеклянную крышу. Под ней расположили Leonardo Cafe, знаменитое своей средиземноморской атмосферой и настоящими оливковыми деревьями. Здесь можно выпить кофе с десертом или попробовать европейские ланчи в окружении зелени. Вход в кафе свободный."
+      },
+      "transcript": {
+        "en": "Along the city walls, between St. Florian’s Gate and the Carpenters’ Tower, there’s an open-air gallery. Amateur artists, students from the Academy of Fine Arts, and local painters display their work here. The “Florian Walls” gallery, which dates back to before the war, has been an integral part of Kraków for many decades, creating a unique, charming little corner in this part of the Old Town. The paintings are mostly aimed at the not-too-demanding tourist. And sales are guaranteed by the gallery’s neighbor — a statue of the Roman god of commerce, Mercury. Go on, step a little closer to him.\n\nWe’re now in what’s known as Princes Czartoryski Lane (Zaułek Książąt Czartoryskich). You’ll easily spot the elegant bridge spanning the narrow street. It connects the two parts of the Czartoryski princes’ palace-and-museum complex. Today they house the collection of the family that donated it to Kraków. The museum is famous above all for the painting it holds — Leonardo da Vinci’s “Lady with an Ermine.”\n\nBut the museum is interesting not only for what’s inside, but also for its own history. Here are a few curious facts.\n\nFirst, it’s a perfect illustration of what’s now called “the Matilda effect” — when ideas, work, or discoveries that actually belong to a woman get credited to a man. For a long time, all the credit for the collection went to Adam Kazimierz Czartoryski. In reality, though, it wasn’t the prince who started the collection, but his wife, Izabela Czartoryska, née von Flemming. The prince himself not only didn’t share his wife’s passion for collecting — he never missed a chance to troll her about her strange hobby. Once he had his worn-out old shoe delivered to Izabela, with a note attached saying it was “Genghis Khan’s boot.”\n\nThere are suspicions that the princess’s collection contained quite a few fakes. Izabela used all sorts of methods to add to it and wasn’t above theft or petty acts of vandalism. The collection included “a piece of the elk-hide jacket of the Swedish king Gustavus Adolphus,” which the duchess cut out personally at the Vienna Arsenal. That particular artifact hasn’t survived, but the contents of some of the “reliquaries” of famous Poles have drawn wide criticism and are still considered questionable to this day.\n\nAt first, Izabela was interested specifically in Polish historical relics — not in art at all. After the Third Partition of the Polish-Lithuanian Commonwealth among Russia, Prussia, and Austria-Hungary, Poland vanished from the maps of the world. Czartoryska hoped that when Poland regained its independence, this collection would serve as a reminder of the nation’s greatness. It was assembled under the motto “The Past to the Future.”\n\nThe Czartoryski princes’ private collection was originally kept not in Kraków at all, but in Puławy — the Czartoryski family estate in Lublin Province. More precisely, in a small rotunda in the park surrounding the residence. Opened to visitors in 1801, this collection of relics became not only the first Polish museum, but also the world’s first museum devoted to the history of a nation. The museum at Versailles, built on a similar concept, opened only thirty years later.\n\nAfter the defeat in the Polish-Russian War of 1830–31, the Czartoryskis were forced to take a large part of the collection out of the family estate. The thing is, Izabela’s son had been the head of the insurgent government. It was clear that the reprisals would be aimed mainly at their family and that all their property would be confiscated. So the most valuable pieces were gradually moved to the Czartoryskis’ main residence in France — the Hôtel Lambert in Paris.\n\nWhile the collection was in Paris, its whole concept changed: whereas Izabela had mostly acquired historical mementos that once belonged to prominent figures, her grandson Władysław built a more modern collection, gathering works of art. That’s the direction in which the family collection grew, and it stayed in Paris until the 1870s.\n\nSo what happened in the 1870s? It turned out that the Czartoryski collection wasn’t nearly as safe in Paris as it might have seemed. First came the Franco-Prussian War, then a revolution and the short-lived but nonetheless brutal Paris Commune. The Czartoryskis decided to move the collection to Polish soil. And that’s how it ended up in Kraków. Why Kraków? Because since the late 1860s, the city had enjoyed relatively broad freedoms under Galician autonomy.\n\nThe city donated the former arsenal for the museum — a building set between two towers, where weapons and ammunition were once stored. Czartoryski himself bought several buildings on the neighboring streets, as well as part of a monastery. They were all rebuilt and joined together — among other things, by building that bridge over the street we just mentioned. The bridge itself was decorated with the coats of arms of the Czartoryski family and the families connected to them. The museum collection officially opened in 1876.\n\nThe pride of the collection is its European painting from the 15th to the 18th centuries, including such masterpieces as Leonardo da Vinci’s “Lady with an Ermine” and Rembrandt’s “Landscape with the Good Samaritan.” Sadly, part of the collection was stolen by the Nazis during World War II — and to this day no one knows the fate of the third masterpiece of the Czartoryski picture gallery — Raphael’s “Portrait of a Young Man.” But the museum’s holdings aren’t limited to painting. It also has a rich collection of ancient art.\n\nAfter the most recent renovation, which began in 2010 and took almost 10 years, the courtyard got a glass roof. Beneath it is the Leonardo Cafe, famous for its Mediterranean atmosphere and real olive trees. You can have coffee and dessert here, or try a European-style lunch surrounded by greenery. Entry to the cafe is free.",
+        "ru": "Вдоль городских стен, между Воротами Святого Флориана и Плотницкой башней, находится галерея под открытым небом. Здесь выставляют работы художники-любители, студенты Академии изящных искусств и местные авторы. Галерея «Флорианские стены», существовавшая ещё до войны, уже много десятилетий является неотъемлемой частью Кракова, создавая уникальный, очаровательный уголок в этой части старого города. Картины, главным образом, рассчитаны на невзыскательного туриста. А продажи обеспечены за счёт соседства галереи со статуей римского бога торговли — Меркурия. Подойдите ближе к нему.\n\nМы находимся в так называемом Заулке князей Чарторыйских. Вы легко заметите изящный мост, перекинутый через узкую улицу. Он соединяет две части дворцово-музейного комплекса князей Чарторыйских. Сегодня в них размещается Собрание семьи, которая пожертвовала свою коллекцию Кракову. Известен музей, главным образом, благодаря находящейся в нём картине Леонардо да Винчи «Дама с горностаем».\n\nОднако музей интересен не только содержанием, но и своей историей. Вот несколько любопытных фактов.\n\nВо-первых, это иллюстрация того, что сегодня называют «эффектом Матильды», когда мужчине присваивают идеи, работу или открытия, принадлежащие, на самом деле, женщине. Долгое время все заслуги по коллекционированию приписывались Адаму Казимиру Чарторыйскому. Хотя, в действительности, собрание инициировал не князь, а его жена Изабелла Чарторыйская, урождённая фон Флемминг. Сам же князь не только не разделял страсть жены к коллекционированию, но и не упускал возможности потроллить её из-за странного хобби. Однажды он поручил передать Изабелле свой изношенный башмак, приложив к нему записку, что это «ботинок Чингисхана».\n\nЕсть подозрения, что в коллекции княжны было много подделок. Изабелла использовала различные методы для её пополнения, не брезговала даже кражами и мелкими актами вандализма. В собрании хранился «фрагмент лосиной куртки шведского короля Густава Адольфа», который герцогиня лично вырезала в Венском арсенале. Этот конкретный артефакт не сохранился, но содержимое некоторых «реликвариев» известных поляков подвергалось широкой критике и до сих пор считается спорным.\n\nИзначально Изабеллу интересовали именно польские исторические реликвии, а совсем не искусство. После третьего раздела Речи Посполитой между Россией, Пруссией и Австро-Венгрией, Польша исчезла с мировых карт. Чарторыйская надеялась, что, когда Польша вернёт себе независимость, эта коллекция станет напоминанием о величии нации. Коллекция создавалась под девизом «Прошлое — Будущему».\n\nЧастное собрание князей Чарторыйских изначально располагалось совсем не в Кракове, а в Пулавах — родовой усадьбе Чарторыйских в Люблинском воеводстве. Точнее, в небольшой ротонде в парке, окружающем резиденцию. Открывшееся в 1801 г. для посещения собрание реликвий стало не только первым польским музеем, но и первым в мире музеем, посвящённым истории нации. Музей в Версале, основанный на аналогичной концепции, открылся лишь тридцать лет спустя.\n\nПосле поражения в польско-русской войне 1830-31 гг. Чарторыйские были вынуждены вывезти значительную часть коллекции из родового поместья. Дело в том, что сын Изабеллы был главой повстанческого правительства. Было понятно, что репрессии направят, главным образом, против их семьи, а всё имущество конфискуют. Поэтому самые ценные предметы постепенно перевозят в ключевую французскую резиденцию Чарторыйских — отель «Ламберт» в Париже.\n\nВо время пребывания собрания в Париже, концепция коллекции меняется: если Изабелла в основном приобретала исторические памятные вещи, принадлежавшие выдающимся личностям, то её внук Владислав создавал более современную коллекцию, накапливая произведения искусства. В таком ключе семейное собрание расширяется, а коллекция остаётся в Париже до 1870-х годов.\n\nЧто происходило в 1870-х годах? Оказалось, что коллекция Чарторыйских в Париже не была в такой уж безопасности, как могло показаться. Сначала франко-прусская война, а затем революция и недолгая, но тем не менее, жестокая Парижская коммуна. Чарторыйские принимают решение перевезти коллекцию на польскую землю. Так собрание оказывается в Кракове. Почему Краков? Потому что с конца 1860-х годов город пользовался относительно широкими свободами в рамках Галицкой автономии.\n\nГород пожертвовал под музей бывший арсенал — здание, пристроенное между двумя башнями, в котором когда-то хранилось оружие и боеприпасы. Сам Чарторыйский приобрёл несколько зданий на соседних улицах, а также часть монастыря. Все они были перестроены и объединены в том числе путём строительства вышеупомянутого моста через улицу. Сам мост украсили гербами семьи Чарторыйских и семей, связанных с ними. Музейная коллекция была официально открыта в 1876 году.\n\nГордость коллекции — собрание европейской живописи XV-XVIII веков, в числе которых такие шедевры, как картина Леонардо да Винчи «Дама с горностаем» и Пейзаж Рембрандта с добрым самаритянином. К сожалению, часть коллекции была украдена нацистами во время Второй мировой войны — до сих пор остаётся неизвестной судьба третьего шедевра из живописной галереи князей Чарторыйских — «Портрет юноши» Рафаэля. Но коллекция музея не ограничивается живописью. В ней также хранится богатая коллекция античного искусства.\n\nПосле последней реконструкции, которая длилась почти 10 лет, начиная с 2010 года, внутренний двор получил стеклянную крышу. Под ней расположили Leonardo Cafe, знаменитое своей средиземноморской атмосферой и настоящими оливковыми деревьями. Здесь можно выпить кофе с десертом или попробовать европейские ланчи в окружении зелени. Вход в кафе свободный."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/roskoshny-maximum/audio/ru/stop-muzeum-czartoryskich.mp3",
+        "ru": "assets/route_media/roskoshny-maximum/audio/ru/stop-muzeum-czartoryskich.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-muzeum-czartoryskich-01",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-muzeum-czartoryskich/01.jpg"
+        },
+        {
+          "assetId": "stop-muzeum-czartoryskich-02",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-muzeum-czartoryskich/02.jpg"
+        },
+        {
+          "assetId": "stop-muzeum-czartoryskich-03",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-muzeum-czartoryskich/03.jpg"
+        },
+        {
+          "assetId": "stop-muzeum-czartoryskich-04",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-muzeum-czartoryskich/04.jpg"
+        },
+        {
+          "assetId": "stop-muzeum-czartoryskich-05",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-muzeum-czartoryskich/05.jpg"
+        },
+        {
+          "assetId": "stop-muzeum-czartoryskich-06",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-muzeum-czartoryskich/06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-jama-michalika",
+      "routeId": "route-roskoshny-maximum",
+      "orderIndex": 5,
+      "latitude": 50.064084,
+      "longitude": 19.940929,
+      "audioTrackId": "audio-stop-jama-michalika",
+      "title": {
+        "en": "Jama Michalika",
+        "ru": "Яма Михалика"
+      },
+      "summary": {
+        "en": "A café where artists paid in caricatures, and Poland’s first literary cabaret.",
+        "ru": "Кондитерская, где художники платили карикатурами, и первое польское литературное кабаре."
+      },
+      "body": {
+        "en": "We’re heading back to Floriańska Street — one of the most beautiful and most expensive streets in Kraków. Royal processions passed along Floriańska, and ambassadors and merchants came riding in, heading for Wawel Royal Castle. By the end of the 19th century, Kraków’s first horse-drawn tram would run here — and then the electric one.\n\nAlong with the trams, house numbers appeared on the city’s streets. For centuries, buildings in Kraków were identified not by the numbers we’re used to, but by the names of their owners or by the symbols on their facades. Strolling along Floriańska, you can still find townhouses the way people did right up until 1882. For example, the townhouse Under the Bells, Under the Lamb, Under the Squirrel, Under Our Lady — and the townhouse now tactfully referred to as Under the Ethiopians.\n\nBut the one we’re interested in is number 45. It once belonged to the very same Duchacy — the friars of the Order of the Holy Spirit — after whom the square where we started our walk is named. The house’s emblem was a deer, which is why the building was called the “Townhouse Under the Deer.” In the second half of the 19th century, it was owned by a vodka merchant, and there was a vodka distillery here. But the place became famous under a completely different name — first as the “Lwów Confectionery,” and today as the cafe Jama Michalika. And it’s not just any cafe.\n\nThe confectionery was founded by Jan Apolinary Michalik, who came from near Stryj, in what is now the Lviv region. As punishment for doing badly at school, his father sent him off to Lwów to apprentice with a confectioner. Once his training was over, young Michalik decided to try his luck — he came to Kraków, where in 1895 he opened the “Lwów Confectionery” at 45 Floriańska Street. The location turned out to be perfect: between the Main Market Square and St. Florian’s Gate, right next to the Academy of Fine Arts. The artists quickly made the confectionery their headquarters. They usually had no money, so Michalik let them pay with drawings and caricatures. And that’s how the interior gradually turned into an art gallery.\n\nKraków locals gave the place a joking nickname — Jama Michalika, “Michalik’s Den.” The artists’ favorite room was tucked away at the very back, had no windows at all, and looked like a cave, a burrow, or a lair. The nickname fit so well that it pushed out the official name.\n\nMichalik was not only a good confectioner but also a brilliant marketer. His pastries got flashy and sometimes quite provocative names. You could order, for example, a “Mickiewicz” pastry, named after the great Polish poet. For conservative Kraków, this seemed pretty daring: celebrities were literally being served up with your coffee.\n\nBut what really made this place famous wasn’t the coffee or the pastries. In 1905, the first Polish literary cabaret appeared here — Zielony Balonik, or “The Green Balloon.” The Green Balloon was the first Polish cafe-cabaret, modeled on the famous ones in Paris. The performers mocked the snobbery, hypocrisy, and provincial self-importance of Kraków’s bohemians — and especially of the well-to-do bourgeoisie.\n\nThe art cabaret was so exclusive that tickets were practically never sold. You could only get in by invitation. The organizers made sure the guests showed enthusiasm; anyone who wasn’t particularly active in the mockery simply wasn’t invited back. So the audience gradually turned into a closed club for insiders. And if they made fun of you at the Green Balloon — well, that meant you had finally become an important enough person in Kraków.\n\nWorld War I put an end to the literary cabaret’s former glory. After the war, Michalik sold his business to his own waiters. The modern chapter of the cafe’s history began at the end of the 20th century. In 1986, the historic building was bought by a family of entrepreneurs. They carried out a major restoration that brought the spirit of the Young Poland era back to the interiors.\n\nTo this day, you can see original caricatures inside, along with stained glass, Art Nouveau furniture, and the marionettes from the cabaret’s famous puppet theater, which portrayed well-known people of the city. Almost every caricature has a specific real-life model — an actor, an artist, or a professor. It’s a kind of Instagram of Kraków’s bohemians in the 1900s.\n\nIf Jama Michalika was the place where artists argued, joked, and made fun of the whole city, then literally a few steps away is the home of the nation’s “visual chronicler.” His historical canvases and his series of pencil drawings of Poland’s monarchs took the place of textbooks for Poles in an era when their country had been wiped off the map of the world, uniting the people and preserving the nation’s historical memory. What interests us is the townhouse at number 41, known as the Jan Matejko House.",
+        "ru": "Мы возвращаемся на улицу Флорианскую — одну из самых красивых и дорогих улиц Кракова. Вдоль Флорианской проходили королевские процессии, въезжали послы и торговцы, направляясь в сторону Вавельского королевского замка. К концу 19 века здесь пройдёт первый краковский конный, а затем и электрический трамвай.\n\nВместе с трамваями на улицах города появляется нумерация домов. Столетиями идентификация зданий в Кракове производилась совсем не по привычным нам числам, а по именам владельцев здания или символам, расположенным на фасаде. Гуляя по Флорианской, можно находить каменицы так же, как это делали вплоть до 1882 года. Например, каменица под колоколами, под барашком, под белкой, под Божьей Матерью, и каменица, как её сейчас толерантно называют, под эфиопами.\n\nНо нас интересует дом №45. Когда-то он принадлежал тому самому ордену Духаков, в честь которых названа площадь, где мы начали прогулку. Эмблемой дома был олень, и называлось поэтому здание «каменица под оленем». Во второй половине XIX века владельцем здания был купец, торгующий водкой, и здесь находился водочный завод. Но прославилось оно совсем под другим названием — когда-то «Львовская кондитерская», а сейчас — кафе «Jama Michalika». Но это не просто кафе.\n\nОснователем кондитерской был Ян Аполлинарий Михалик из под Стрыя в нынешней Львовской области. В качестве наказания за плохую учёбу отец отправил его на обучение к кондитеру во Львов. После завершения практики молодой Михалик решил испытать удачу — приехал в Краков, где в 1895 г. открыл «Львовскую кондитерскую» на ул. Флорианской 45. Место оказалось идеальным: между Рыночной площадью и Флорианскими воротами, рядом с Академией художеств. Художники быстро сделали кондитерскую своим штабом. Денег у них обычно не было, поэтому Михалик разрешал расплачиваться рисунками и карикатурами. Так интерьер постепенно превратился в художественную галерею.\n\nКраковяне присвоили этому заведению шуточное название «Яма Михалика». Любимая комната художников находилась в глубине заведения, была совершенно без окон и напоминала пещеру, нору или логово. Разговорное название оказалось настолько удачным, что вытеснило официальное.\n\nМихалик был не только хорошим кондитером, но и отличным маркетологом. Его пирожные получали громкие и иногда весьма провокационные названия. Можно было заказать, например, пирожное «Мицкевич», названное в честь великого польского поэта. Для консервативного Кракова это выглядело довольно дерзко: знаменитостей буквально подавали к кофе.\n\nНо настоящую славу этому месту принесло не кофе и не пирожные. В 1905 году здесь появилось первое польское литературное кабаре — Zielony Balonik или «Зелёный шарик». «Зелёный шарик» был первым польским кафе-кабаре, созданным по образцу знаменитых парижских. Артисты высмеивали снобизм, лицемерие и провинциальную важность краковской богемы, и особенно, зажиточного мещанства.\n\nАрт-кабаре было настолько элитарным, что билеты практически не продавались. Попасть сюда можно было только по приглашению. Организаторы следили за тем, чтобы гости проявляли энтузиазм; тех, кто был не особо активен в глумлении, больше не приглашали. Поэтому публика постепенно превратилась в закрытый клуб для посвящённых. Ну, а если над вами шутили в «Зелёном шарике», значит, вы наконец стали достаточно важным человеком в Кракове.\n\nПервая Мировая война разрушила былую славу литературного кабаре. После войны Михалик продал своё заведение собственным официантам. Современный этап истории кафе начался в конце XX века. В 1986 году историческое здание приобрела семья предпринимателей. Была проведена масштабная реставрация, вернувшая интерьерам дух эпохи «Молодой Польши».\n\nДо сих пор внутри можно увидеть подлинные карикатуры, витражи, мебель эпохи модерна и марионеток знаменитого кукольного театра кабаре, изображавших известных жителей города. Почти каждая карикатура имеет конкретный прототип — актёра, художника или профессора. Это своеобразный Instagram краковской богемы 1900-х годов.\n\nЕсли «Яма Михалика» была местом, где художники спорили, шутили и высмеивали весь город, то буквально через несколько шагов находится дом «визуального летописца» нации. Его исторические полотна и цикл карандашных рисунков монархов Польши заменяли полякам учебники в эпоху, когда страна была стёрта с карт мира, объединяя народ и сохраняя историческую память нации. Нас интересует каменица под номером 41, известная как Дом Яна Матейко."
+      },
+      "transcript": {
+        "en": "We’re heading back to Floriańska Street — one of the most beautiful and most expensive streets in Kraków. Royal processions passed along Floriańska, and ambassadors and merchants came riding in, heading for Wawel Royal Castle. By the end of the 19th century, Kraków’s first horse-drawn tram would run here — and then the electric one.\n\nAlong with the trams, house numbers appeared on the city’s streets. For centuries, buildings in Kraków were identified not by the numbers we’re used to, but by the names of their owners or by the symbols on their facades. Strolling along Floriańska, you can still find townhouses the way people did right up until 1882. For example, the townhouse Under the Bells, Under the Lamb, Under the Squirrel, Under Our Lady — and the townhouse now tactfully referred to as Under the Ethiopians.\n\nBut the one we’re interested in is number 45. It once belonged to the very same Duchacy — the friars of the Order of the Holy Spirit — after whom the square where we started our walk is named. The house’s emblem was a deer, which is why the building was called the “Townhouse Under the Deer.” In the second half of the 19th century, it was owned by a vodka merchant, and there was a vodka distillery here. But the place became famous under a completely different name — first as the “Lwów Confectionery,” and today as the cafe Jama Michalika. And it’s not just any cafe.\n\nThe confectionery was founded by Jan Apolinary Michalik, who came from near Stryj, in what is now the Lviv region. As punishment for doing badly at school, his father sent him off to Lwów to apprentice with a confectioner. Once his training was over, young Michalik decided to try his luck — he came to Kraków, where in 1895 he opened the “Lwów Confectionery” at 45 Floriańska Street. The location turned out to be perfect: between the Main Market Square and St. Florian’s Gate, right next to the Academy of Fine Arts. The artists quickly made the confectionery their headquarters. They usually had no money, so Michalik let them pay with drawings and caricatures. And that’s how the interior gradually turned into an art gallery.\n\nKraków locals gave the place a joking nickname — Jama Michalika, “Michalik’s Den.” The artists’ favorite room was tucked away at the very back, had no windows at all, and looked like a cave, a burrow, or a lair. The nickname fit so well that it pushed out the official name.\n\nMichalik was not only a good confectioner but also a brilliant marketer. His pastries got flashy and sometimes quite provocative names. You could order, for example, a “Mickiewicz” pastry, named after the great Polish poet. For conservative Kraków, this seemed pretty daring: celebrities were literally being served up with your coffee.\n\nBut what really made this place famous wasn’t the coffee or the pastries. In 1905, the first Polish literary cabaret appeared here — Zielony Balonik, or “The Green Balloon.” The Green Balloon was the first Polish cafe-cabaret, modeled on the famous ones in Paris. The performers mocked the snobbery, hypocrisy, and provincial self-importance of Kraków’s bohemians — and especially of the well-to-do bourgeoisie.\n\nThe art cabaret was so exclusive that tickets were practically never sold. You could only get in by invitation. The organizers made sure the guests showed enthusiasm; anyone who wasn’t particularly active in the mockery simply wasn’t invited back. So the audience gradually turned into a closed club for insiders. And if they made fun of you at the Green Balloon — well, that meant you had finally become an important enough person in Kraków.\n\nWorld War I put an end to the literary cabaret’s former glory. After the war, Michalik sold his business to his own waiters. The modern chapter of the cafe’s history began at the end of the 20th century. In 1986, the historic building was bought by a family of entrepreneurs. They carried out a major restoration that brought the spirit of the Young Poland era back to the interiors.\n\nTo this day, you can see original caricatures inside, along with stained glass, Art Nouveau furniture, and the marionettes from the cabaret’s famous puppet theater, which portrayed well-known people of the city. Almost every caricature has a specific real-life model — an actor, an artist, or a professor. It’s a kind of Instagram of Kraków’s bohemians in the 1900s.\n\nIf Jama Michalika was the place where artists argued, joked, and made fun of the whole city, then literally a few steps away is the home of the nation’s “visual chronicler.” His historical canvases and his series of pencil drawings of Poland’s monarchs took the place of textbooks for Poles in an era when their country had been wiped off the map of the world, uniting the people and preserving the nation’s historical memory. What interests us is the townhouse at number 41, known as the Jan Matejko House.",
+        "ru": "Мы возвращаемся на улицу Флорианскую — одну из самых красивых и дорогих улиц Кракова. Вдоль Флорианской проходили королевские процессии, въезжали послы и торговцы, направляясь в сторону Вавельского королевского замка. К концу 19 века здесь пройдёт первый краковский конный, а затем и электрический трамвай.\n\nВместе с трамваями на улицах города появляется нумерация домов. Столетиями идентификация зданий в Кракове производилась совсем не по привычным нам числам, а по именам владельцев здания или символам, расположенным на фасаде. Гуляя по Флорианской, можно находить каменицы так же, как это делали вплоть до 1882 года. Например, каменица под колоколами, под барашком, под белкой, под Божьей Матерью, и каменица, как её сейчас толерантно называют, под эфиопами.\n\nНо нас интересует дом №45. Когда-то он принадлежал тому самому ордену Духаков, в честь которых названа площадь, где мы начали прогулку. Эмблемой дома был олень, и называлось поэтому здание «каменица под оленем». Во второй половине XIX века владельцем здания был купец, торгующий водкой, и здесь находился водочный завод. Но прославилось оно совсем под другим названием — когда-то «Львовская кондитерская», а сейчас — кафе «Jama Michalika». Но это не просто кафе.\n\nОснователем кондитерской был Ян Аполлинарий Михалик из под Стрыя в нынешней Львовской области. В качестве наказания за плохую учёбу отец отправил его на обучение к кондитеру во Львов. После завершения практики молодой Михалик решил испытать удачу — приехал в Краков, где в 1895 г. открыл «Львовскую кондитерскую» на ул. Флорианской 45. Место оказалось идеальным: между Рыночной площадью и Флорианскими воротами, рядом с Академией художеств. Художники быстро сделали кондитерскую своим штабом. Денег у них обычно не было, поэтому Михалик разрешал расплачиваться рисунками и карикатурами. Так интерьер постепенно превратился в художественную галерею.\n\nКраковяне присвоили этому заведению шуточное название «Яма Михалика». Любимая комната художников находилась в глубине заведения, была совершенно без окон и напоминала пещеру, нору или логово. Разговорное название оказалось настолько удачным, что вытеснило официальное.\n\nМихалик был не только хорошим кондитером, но и отличным маркетологом. Его пирожные получали громкие и иногда весьма провокационные названия. Можно было заказать, например, пирожное «Мицкевич», названное в честь великого польского поэта. Для консервативного Кракова это выглядело довольно дерзко: знаменитостей буквально подавали к кофе.\n\nНо настоящую славу этому месту принесло не кофе и не пирожные. В 1905 году здесь появилось первое польское литературное кабаре — Zielony Balonik или «Зелёный шарик». «Зелёный шарик» был первым польским кафе-кабаре, созданным по образцу знаменитых парижских. Артисты высмеивали снобизм, лицемерие и провинциальную важность краковской богемы, и особенно, зажиточного мещанства.\n\nАрт-кабаре было настолько элитарным, что билеты практически не продавались. Попасть сюда можно было только по приглашению. Организаторы следили за тем, чтобы гости проявляли энтузиазм; тех, кто был не особо активен в глумлении, больше не приглашали. Поэтому публика постепенно превратилась в закрытый клуб для посвящённых. Ну, а если над вами шутили в «Зелёном шарике», значит, вы наконец стали достаточно важным человеком в Кракове.\n\nПервая Мировая война разрушила былую славу литературного кабаре. После войны Михалик продал своё заведение собственным официантам. Современный этап истории кафе начался в конце XX века. В 1986 году историческое здание приобрела семья предпринимателей. Была проведена масштабная реставрация, вернувшая интерьерам дух эпохи «Молодой Польши».\n\nДо сих пор внутри можно увидеть подлинные карикатуры, витражи, мебель эпохи модерна и марионеток знаменитого кукольного театра кабаре, изображавших известных жителей города. Почти каждая карикатура имеет конкретный прототип — актёра, художника или профессора. Это своеобразный Instagram краковской богемы 1900-х годов.\n\nЕсли «Яма Михалика» была местом, где художники спорили, шутили и высмеивали весь город, то буквально через несколько шагов находится дом «визуального летописца» нации. Его исторические полотна и цикл карандашных рисунков монархов Польши заменяли полякам учебники в эпоху, когда страна была стёрта с карт мира, объединяя народ и сохраняя историческую память нации. Нас интересует каменица под номером 41, известная как Дом Яна Матейко."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/roskoshny-maximum/audio/ru/stop-jama-michalika.mp3",
+        "ru": "assets/route_media/roskoshny-maximum/audio/ru/stop-jama-michalika.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-jama-michalika-01",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-jama-michalika/01.jpg"
+        },
+        {
+          "assetId": "stop-jama-michalika-02",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-jama-michalika/02.jpg"
+        },
+        {
+          "assetId": "stop-jama-michalika-03",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-jama-michalika/03.jpg"
+        },
+        {
+          "assetId": "stop-jama-michalika-04",
+          "assetPath": "assets/route_media/roskoshny-maximum/stop-jama-michalika/04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-market-square",
+      "routeId": "route-classic",
+      "orderIndex": 1,
+      "latitude": 50.061517,
+      "longitude": 19.937107,
+      "audioTrackId": "audio-stop-market-square",
+      "title": {
+        "en": "Market Square",
+        "ru": "Рыночная площадь"
+      },
+      "summary": {
+        "en": "The civic center where Kraków opens at full scale.",
+        "ru": "Городской центр, где Краков раскрывается во всём масштабе."
+      },
+      "body": {
+        "en": "Market Square is the point where the historic center starts working like one large stage. The route begins here because the city already feels open, public, and in motion.\n\nRynek Główny gives the route its widest opening. Trade, ceremony, cafes, and the constant movement of the center all meet here in one field of view. It is the easiest place to feel how public Kraków works.",
+        "ru": "Рыночная площадь — это точка, где исторический центр начинает работать как большая сцена. Маршрут начинается здесь, потому что город сразу ощущается открытым, публичным и движущимся.\n\nRynek Główny задаёт маршруту самый широкий вход. Торговля, городские ритуалы, кафе и постоянное движение центра собираются здесь в одном поле зрения. Именно отсюда легче всего почувствовать, как работает публичный Краков."
+      },
+      "transcript": {
+        "en": "Market Square is the point where the historic center starts working like one large stage. The route begins here because the city already feels open, public, and in motion.\n\nRynek Główny gives the route its widest opening. Trade, ceremony, cafes, and the constant movement of the center all meet here in one field of view. It is the easiest place to feel how public Kraków works.",
+        "ru": "Рыночная площадь — это точка, где исторический центр начинает работать как большая сцена. Маршрут начинается здесь, потому что город сразу ощущается открытым, публичным и движущимся.\n\nRynek Główny задаёт маршруту самый широкий вход. Торговля, городские ритуалы, кафе и постоянное движение центра собираются здесь в одном поле зрения. Именно отсюда легче всего почувствовать, как работает публичный Краков."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/classic/audio/en/stop-market-square.mp3",
+        "ru": "assets/route_media/classic/audio/ru/stop-market-square.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-market-square-01",
+          "assetPath": "assets/route_media/classic/stop-market-square/01.jpg"
+        },
+        {
+          "assetId": "stop-market-square-02",
+          "assetPath": "assets/route_media/classic/stop-market-square/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-st-marys-basilica",
+      "routeId": "route-classic",
+      "orderIndex": 2,
+      "latitude": 50.061655,
+      "longitude": 19.939449,
+      "audioTrackId": "audio-stop-st-marys-basilica",
+      "title": {
+        "en": "St. Mary’s Basilica",
+        "ru": "Базилика Святой Марии"
+      },
+      "summary": {
+        "en": "A vertical marker on the eastern edge of the square.",
+        "ru": "Вертикальная доминанта на восточной стороне площади."
+      },
+      "body": {
+        "en": "St. Mary’s Basilica works as a vertical counterpoint to the square. After the open plaza, the route tightens around stone, brick, and a much more concentrated view.\n\nAt St. Mary’s the route narrows from the square into a single facade and tower line. The church gives the center a strong vertical accent and changes the walk from open space to concentrated detail.",
+        "ru": "Базилика Святой Марии работает как вертикальный контрапункт площади. После открытого пространства маршрут собирается вокруг камня, кирпича и гораздо более концентрированного вида.\n\nУ базилики маршрут сужается: вместо широкой площади внимание собирается в фасаде и линии башен. Эта остановка переводит прогулку из открытого пространства к собранным городским деталям."
+      },
+      "transcript": {
+        "en": "St. Mary’s Basilica works as a vertical counterpoint to the square. After the open plaza, the route tightens around stone, brick, and a much more concentrated view.\n\nAt St. Mary’s the route narrows from the square into a single facade and tower line. The church gives the center a strong vertical accent and changes the walk from open space to concentrated detail.",
+        "ru": "Базилика Святой Марии работает как вертикальный контрапункт площади. После открытого пространства маршрут собирается вокруг камня, кирпича и гораздо более концентрированного вида.\n\nУ базилики маршрут сужается: вместо широкой площади внимание собирается в фасаде и линии башен. Эта остановка переводит прогулку из открытого пространства к собранным городским деталям."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/classic/audio/en/stop-st-marys-basilica.mp3",
+        "ru": "assets/route_media/classic/audio/ru/stop-st-marys-basilica.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-st-marys-basilica-01",
+          "assetPath": "assets/route_media/classic/stop-st-marys-basilica/01.jpg"
+        },
+        {
+          "assetId": "stop-st-marys-basilica-02",
+          "assetPath": "assets/route_media/classic/stop-st-marys-basilica/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-cloth-hall",
+      "routeId": "route-classic",
+      "orderIndex": 3,
+      "latitude": 50.061701,
+      "longitude": 19.937351,
+      "audioTrackId": "audio-stop-cloth-hall",
+      "title": {
+        "en": "Cloth Hall",
+        "ru": "Сукеннице"
+      },
+      "summary": {
+        "en": "The square’s long commercial spine.",
+        "ru": "Длинная торговая ось главной площади."
+      },
+      "body": {
+        "en": "Cloth Hall reminds you that this square was built to work, not only to impress. The route stays grounded here in exchange, rhythm, and repeated everyday use.\n\nThe Cloth Hall keeps the route close to trade and everyday movement. It is not a side note to the square but one of the structures that explains why the square feels active instead of ceremonial only.",
+        "ru": "Сукеннице напоминают, что эта площадь была создана не только чтобы впечатлять, но и чтобы работать. Здесь маршрут остаётся привязанным к обмену, ритму и повторяющемуся повседневному использованию.\n\nСукеннице удерживают маршрут рядом с торговлей и повседневным движением. Это не второстепенная деталь площади, а одна из структур, благодаря которым она ощущается не только торжественной, но и живой."
+      },
+      "transcript": {
+        "en": "Cloth Hall reminds you that this square was built to work, not only to impress. The route stays grounded here in exchange, rhythm, and repeated everyday use.\n\nThe Cloth Hall keeps the route close to trade and everyday movement. It is not a side note to the square but one of the structures that explains why the square feels active instead of ceremonial only.",
+        "ru": "Сукеннице напоминают, что эта площадь была создана не только чтобы впечатлять, но и чтобы работать. Здесь маршрут остаётся привязанным к обмену, ритму и повторяющемуся повседневному использованию.\n\nСукеннице удерживают маршрут рядом с торговлей и повседневным движением. Это не второстепенная деталь площади, а одна из структур, благодаря которым она ощущается не только торжественной, но и живой."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/classic/audio/en/stop-cloth-hall.mp3",
+        "ru": "assets/route_media/classic/audio/ru/stop-cloth-hall.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-cloth-hall-01",
+          "assetPath": "assets/route_media/classic/stop-cloth-hall/01.jpg"
+        },
+        {
+          "assetId": "stop-cloth-hall-02",
+          "assetPath": "assets/route_media/classic/stop-cloth-hall/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-collegium-maius",
+      "routeId": "route-classic",
+      "orderIndex": 4,
+      "latitude": 50.061563,
+      "longitude": 19.933409,
+      "audioTrackId": "audio-stop-collegium-maius",
+      "title": {
+        "en": "Collegium Maius",
+        "ru": "Collegium Maius"
+      },
+      "summary": {
+        "en": "A quieter academic courtyard just beyond the square.",
+        "ru": "Более тихий академический двор сразу за площадью."
+      },
+      "body": {
+        "en": "This stop shifts the walk into a calmer register. Collegium Maius is important here because it shows Kraków not as a stage, but as a place of enclosed routine and study.\n\nCollegium Maius changes the route from public frontage to an inward-looking courtyard scale. The sound drops, the geometry tightens, and the city suddenly feels more measured.",
+        "ru": "Эта остановка переводит прогулку в более спокойный регистр. Collegium Maius важен здесь потому, что показывает Краков не как сцену, а как место внутреннего уклада и учёбы.\n\nCollegium Maius меняет масштаб маршрута: вместо парадных фасадов появляется более внутренний двор. Шум снижается, геометрия становится плотнее, и город внезапно ощущается более собранным."
+      },
+      "transcript": {
+        "en": "This stop shifts the walk into a calmer register. Collegium Maius is important here because it shows Kraków not as a stage, but as a place of enclosed routine and study.\n\nCollegium Maius changes the route from public frontage to an inward-looking courtyard scale. The sound drops, the geometry tightens, and the city suddenly feels more measured.",
+        "ru": "Эта остановка переводит прогулку в более спокойный регистр. Collegium Maius важен здесь потому, что показывает Краков не как сцену, а как место внутреннего уклада и учёбы.\n\nCollegium Maius меняет масштаб маршрута: вместо парадных фасадов появляется более внутренний двор. Шум снижается, геометрия становится плотнее, и город внезапно ощущается более собранным."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/classic/audio/en/stop-collegium-maius.mp3",
+        "ru": "assets/route_media/classic/audio/ru/stop-collegium-maius.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-collegium-maius-01",
+          "assetPath": "assets/route_media/classic/stop-collegium-maius/01.jpg"
+        },
+        {
+          "assetId": "stop-collegium-maius-02",
+          "assetPath": "assets/route_media/classic/stop-collegium-maius/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-grodzka",
+      "routeId": "route-classic",
+      "orderIndex": 5,
+      "latitude": 50.054601,
+      "longitude": 19.938431,
+      "audioTrackId": "audio-stop-grodzka",
+      "title": {
+        "en": "Grodzka Street",
+        "ru": "Улица Гродзка"
+      },
+      "summary": {
+        "en": "The direct line that carries the walk south.",
+        "ru": "Прямая ось, которая ведёт прогулку на юг."
+      },
+      "body": {
+        "en": "Grodzka gives the route momentum. It is a connective street, but that connection is exactly why it matters: the walk starts to feel like a continuous line instead of a set of isolated points.\n\nGrodzka is where the classic route becomes directional. The walk stops circling around single landmarks and starts moving with purpose toward Wawel through a long street perspective.",
+        "ru": "Гродзка придаёт маршруту инерцию. Это связующая улица, и именно поэтому она важна: прогулка начинает ощущаться как единая линия, а не набор разрозненных точек.\n\nГродзка — момент, когда классический маршрут становится направленным. Прогулка перестаёт вращаться вокруг отдельных достопримечательностей и начинает целенаправленно двигаться к Вавелю через длинную уличную перспективу."
+      },
+      "transcript": {
+        "en": "Grodzka gives the route momentum. It is a connective street, but that connection is exactly why it matters: the walk starts to feel like a continuous line instead of a set of isolated points.\n\nGrodzka is where the classic route becomes directional. The walk stops circling around single landmarks and starts moving with purpose toward Wawel through a long street perspective.",
+        "ru": "Гродзка придаёт маршруту инерцию. Это связующая улица, и именно поэтому она важна: прогулка начинает ощущаться как единая линия, а не набор разрозненных точек.\n\nГродзка — момент, когда классический маршрут становится направленным. Прогулка перестаёт вращаться вокруг отдельных достопримечательностей и начинает целенаправленно двигаться к Вавелю через длинную уличную перспективу."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/classic/audio/en/stop-grodzka.mp3",
+        "ru": "assets/route_media/classic/audio/ru/stop-grodzka.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-grodzka-01",
+          "assetPath": "assets/route_media/classic/stop-grodzka/01.jpg"
+        },
+        {
+          "assetId": "stop-grodzka-02",
+          "assetPath": "assets/route_media/classic/stop-grodzka/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-wawel",
+      "routeId": "route-classic",
+      "orderIndex": 6,
+      "latitude": 50.054405,
+      "longitude": 19.936022,
+      "audioTrackId": "audio-stop-wawel",
+      "title": {
+        "en": "Wawel Hill",
+        "ru": "Вавельский холм"
+      },
+      "summary": {
+        "en": "The symbolic finish of the classic route.",
+        "ru": "Символическая финальная точка классического маршрута."
+      },
+      "body": {
+        "en": "Wawel is the place where the route gathers scale, direction, and symbolism into one final stop. The city feels more focused here than it did at the start.\n\nWawel closes the classic walk with a stronger sense of elevation and symbolic weight. The route arrives here after the square, the street line, and the academic courtyard, so the hill reads as a conclusion rather than an isolated monument.",
+        "ru": "Вавель — место, где маршрут собирает масштаб, направление и символизм в одну финальную точку. Здесь город ощущается более собранным, чем в самом начале.\n\nВавель завершает классическую прогулку более сильным ощущением высоты и символического веса. Маршрут приходит сюда после площади, уличной оси и академического двора, поэтому холм читается как итог, а не как отдельный памятник."
+      },
+      "transcript": {
+        "en": "Wawel is the place where the route gathers scale, direction, and symbolism into one final stop. The city feels more focused here than it did at the start.\n\nWawel closes the classic walk with a stronger sense of elevation and symbolic weight. The route arrives here after the square, the street line, and the academic courtyard, so the hill reads as a conclusion rather than an isolated monument.",
+        "ru": "Вавель — место, где маршрут собирает масштаб, направление и символизм в одну финальную точку. Здесь город ощущается более собранным, чем в самом начале.\n\nВавель завершает классическую прогулку более сильным ощущением высоты и символического веса. Маршрут приходит сюда после площади, уличной оси и академического двора, поэтому холм читается как итог, а не как отдельный памятник."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/classic/audio/en/stop-wawel.mp3",
+        "ru": "assets/route_media/classic/audio/ru/stop-wawel.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-wawel-01",
+          "assetPath": "assets/route_media/classic/stop-wawel/01.jpg"
+        },
+        {
+          "assetId": "stop-wawel-02",
+          "assetPath": "assets/route_media/classic/stop-wawel/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-szeroka",
+      "routeId": "route-romantic",
+      "orderIndex": 1,
+      "latitude": 50.053119,
+      "longitude": 19.948065,
+      "audioTrackId": "audio-stop-szeroka",
+      "title": {
+        "en": "Szeroka Street",
+        "ru": "Улица Шерока"
+      },
+      "summary": {
+        "en": "A broad opening into the Kazimierz route.",
+        "ru": "Широкое вступление в маршрут по Казимежу."
+      },
+      "body": {
+        "en": "Szeroka opens Kazimierz with more room and less pressure. The route begins here because the district already feels slower, wider, and more personal than the center.\n\nSzeroka gives the romantic route a generous start. It feels open, but less ceremonial than the main square, and that difference sets the tone for the rest of the walk.",
+        "ru": "Шерока открывает Казимеж большим пространством и меньшим давлением. Маршрут начинается здесь, потому что район сразу ощущается медленнее, шире и личнее, чем центр.\n\nШерока задаёт романтическому маршруту более свободное начало. Она ощущается открытой, но менее торжественной, чем главная площадь, и это отличие задаёт тон всей дальнейшей прогулке."
+      },
+      "transcript": {
+        "en": "Szeroka opens Kazimierz with more room and less pressure. The route begins here because the district already feels slower, wider, and more personal than the center.\n\nSzeroka gives the romantic route a generous start. It feels open, but less ceremonial than the main square, and that difference sets the tone for the rest of the walk.",
+        "ru": "Шерока открывает Казимеж большим пространством и меньшим давлением. Маршрут начинается здесь, потому что район сразу ощущается медленнее, шире и личнее, чем центр.\n\nШерока задаёт романтическому маршруту более свободное начало. Она ощущается открытой, но менее торжественной, чем главная площадь, и это отличие задаёт тон всей дальнейшей прогулке."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/romantic/audio/en/stop-szeroka.mp3",
+        "ru": "assets/route_media/romantic/audio/ru/stop-szeroka.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-szeroka-01",
+          "assetPath": "assets/route_media/romantic/stop-szeroka/01.jpg"
+        },
+        {
+          "assetId": "stop-szeroka-02",
+          "assetPath": "assets/route_media/romantic/stop-szeroka/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-remuh",
+      "routeId": "route-romantic",
+      "orderIndex": 2,
+      "latitude": 50.052649,
+      "longitude": 19.947294,
+      "audioTrackId": "audio-stop-remuh",
+      "title": {
+        "en": "Remuh Synagogue",
+        "ru": "Синагога Рему"
+      },
+      "summary": {
+        "en": "A smaller and more inward-facing stop.",
+        "ru": "Более камерная и внутренняя точка маршрута."
+      },
+      "body": {
+        "en": "Remuh shifts the route inward. It is a smaller stop, but that smaller scale is exactly what helps Kazimierz feel textured instead of uniform.\n\nThe stop at Remuh narrows the scale of the walk. After the open width of Szeroka, the route turns toward a quieter and more concentrated setting.",
+        "ru": "Рему переводит маршрут внутрь. Это более компактная точка, и именно этот меньший масштаб помогает Казимежу ощущаться многослойным, а не однотонным.\n\nОстановка у Рему сужает масштаб прогулки. После открытой ширины Шероки маршрут переходит к более тихому и собранному пространству."
+      },
+      "transcript": {
+        "en": "Remuh shifts the route inward. It is a smaller stop, but that smaller scale is exactly what helps Kazimierz feel textured instead of uniform.\n\nThe stop at Remuh narrows the scale of the walk. After the open width of Szeroka, the route turns toward a quieter and more concentrated setting.",
+        "ru": "Рему переводит маршрут внутрь. Это более компактная точка, и именно этот меньший масштаб помогает Казимежу ощущаться многослойным, а не однотонным.\n\nОстановка у Рему сужает масштаб прогулки. После открытой ширины Шероки маршрут переходит к более тихому и собранному пространству."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/romantic/audio/en/stop-remuh.mp3",
+        "ru": "assets/route_media/romantic/audio/ru/stop-remuh.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-remuh-01",
+          "assetPath": "assets/route_media/romantic/stop-remuh/01.jpg"
+        },
+        {
+          "assetId": "stop-remuh-02",
+          "assetPath": "assets/route_media/romantic/stop-remuh/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-plac-nowy",
+      "routeId": "route-romantic",
+      "orderIndex": 3,
+      "latitude": 50.051737,
+      "longitude": 19.944619,
+      "audioTrackId": "audio-stop-plac-nowy",
+      "title": {
+        "en": "Plac Nowy",
+        "ru": "Пляц Новы"
+      },
+      "summary": {
+        "en": "An everyday social center in Kazimierz.",
+        "ru": "Повседневный социальный центр Казимежа."
+      },
+      "body": {
+        "en": "Plac Nowy matters because it restores movement and social energy without returning to the monumental scale of the old town. The route stays intimate, but no longer quiet.\n\nPlac Nowy brings the route back toward everyday public life. The space feels informal, social, and used in a different way from the classic center.",
+        "ru": "Пляц Новы важен тем, что возвращает движение и социальную энергию, не возвращаясь к монументальному масштабу старого города. Маршрут остаётся камерным, но уже не тихим.\n\nПляц Новы возвращает маршрут к повседневной городской жизни. Это пространство ощущается более неформальным, социальным и используемым иначе, чем классический центр."
+      },
+      "transcript": {
+        "en": "Plac Nowy matters because it restores movement and social energy without returning to the monumental scale of the old town. The route stays intimate, but no longer quiet.\n\nPlac Nowy brings the route back toward everyday public life. The space feels informal, social, and used in a different way from the classic center.",
+        "ru": "Пляц Новы важен тем, что возвращает движение и социальную энергию, не возвращаясь к монументальному масштабу старого города. Маршрут остаётся камерным, но уже не тихим.\n\nПляц Новы возвращает маршрут к повседневной городской жизни. Это пространство ощущается более неформальным, социальным и используемым иначе, чем классический центр."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/romantic/audio/en/stop-plac-nowy.mp3",
+        "ru": "assets/route_media/romantic/audio/ru/stop-plac-nowy.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-plac-nowy-01",
+          "assetPath": "assets/route_media/romantic/stop-plac-nowy/01.jpg"
+        },
+        {
+          "assetId": "stop-plac-nowy-02",
+          "assetPath": "assets/route_media/romantic/stop-plac-nowy/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-jozefa",
+      "routeId": "route-romantic",
+      "orderIndex": 4,
+      "latitude": 50.050286,
+      "longitude": 19.943053,
+      "audioTrackId": "audio-stop-jozefa",
+      "title": {
+        "en": "Józefa Street",
+        "ru": "Улица Юзефа"
+      },
+      "summary": {
+        "en": "A street-scale transition toward the river.",
+        "ru": "Уличный переходный фрагмент маршрута к реке."
+      },
+      "body": {
+        "en": "This street keeps the route moving without breaking its mood. Józefa works as a transition, carrying the walk from neighborhood life toward the wider river edge.\n\nJózefa is less about a single landmark and more about rhythm. It lets the route move from squares into a looser street sequence before the bridge and river edge.",
+        "ru": "Эта улица сохраняет движение маршрута, не ломая его настроение. Юзефа работает как переход, проводя прогулку от районной жизни к более широкому речному краю.\n\nЮзефа важна не какой-то одной достопримечательностью, а ритмом. Она переводит маршрут от площадей к более свободной уличной последовательности перед мостом и рекой."
+      },
+      "transcript": {
+        "en": "This street keeps the route moving without breaking its mood. Józefa works as a transition, carrying the walk from neighborhood life toward the wider river edge.\n\nJózefa is less about a single landmark and more about rhythm. It lets the route move from squares into a looser street sequence before the bridge and river edge.",
+        "ru": "Эта улица сохраняет движение маршрута, не ломая его настроение. Юзефа работает как переход, проводя прогулку от районной жизни к более широкому речному краю.\n\nЮзефа важна не какой-то одной достопримечательностью, а ритмом. Она переводит маршрут от площадей к более свободной уличной последовательности перед мостом и рекой."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/romantic/audio/en/stop-jozefa.mp3",
+        "ru": "assets/route_media/romantic/audio/ru/stop-jozefa.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-jozefa-01",
+          "assetPath": "assets/route_media/romantic/stop-jozefa/01.jpg"
+        },
+        {
+          "assetId": "stop-jozefa-02",
+          "assetPath": "assets/route_media/romantic/stop-jozefa/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-bernatka",
+      "routeId": "route-romantic",
+      "orderIndex": 5,
+      "latitude": 50.046558,
+      "longitude": 19.947504,
+      "audioTrackId": "audio-stop-bernatka",
+      "title": {
+        "en": "Bernatka Footbridge",
+        "ru": "Пешеходный мост Бернатка"
+      },
+      "summary": {
+        "en": "A crossing point with open air and river views.",
+        "ru": "Точка перехода с открытым воздухом и видами на реку."
+      },
+      "body": {
+        "en": "Bernatka is the route’s moment of lift. The bridge brings light, distance, and a wider horizon without losing the slower tone of the walk.\n\nThe footbridge changes the romantic route from enclosed streets to open movement above the water. It is where Kazimierz starts opening outward.",
+        "ru": "Бернатка — момент подъёма в маршруте. Мост добавляет свет, дистанцию и более широкий горизонт, не теряя медленного тона прогулки.\n\nПешеходный мост меняет романтический маршрут: вместо закрытых улиц появляется открытое движение над водой. Именно здесь Казимеж начинает раскрываться наружу."
+      },
+      "transcript": {
+        "en": "Bernatka is the route’s moment of lift. The bridge brings light, distance, and a wider horizon without losing the slower tone of the walk.\n\nThe footbridge changes the romantic route from enclosed streets to open movement above the water. It is where Kazimierz starts opening outward.",
+        "ru": "Бернатка — момент подъёма в маршруте. Мост добавляет свет, дистанцию и более широкий горизонт, не теряя медленного тона прогулки.\n\nПешеходный мост меняет романтический маршрут: вместо закрытых улиц появляется открытое движение над водой. Именно здесь Казимеж начинает раскрываться наружу."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/romantic/audio/en/stop-bernatka.mp3",
+        "ru": "assets/route_media/romantic/audio/ru/stop-bernatka.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-bernatka-01",
+          "assetPath": "assets/route_media/romantic/stop-bernatka/01.jpg"
+        },
+        {
+          "assetId": "stop-bernatka-02",
+          "assetPath": "assets/route_media/romantic/stop-bernatka/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-vistula-kazimierz",
+      "routeId": "route-romantic",
+      "orderIndex": 6,
+      "latitude": 50.045795,
+      "longitude": 19.939202,
+      "audioTrackId": "audio-stop-vistula-kazimierz",
+      "title": {
+        "en": "Vistula Boulevards",
+        "ru": "Бульвары Вислы"
+      },
+      "summary": {
+        "en": "The calm river finish for the route.",
+        "ru": "Спокойный речной финал маршрута."
+      },
+      "body": {
+        "en": "The river is where this route exhales. The boulevards do not end the walk with a monument, but with space, distance, and a quieter horizon.\n\nThe Vistula edge gives the route a final release of space. After streets, courtyards, and the bridge crossing, the riverfront lets the walk end in a slower and broader frame.",
+        "ru": "Река — место, где этот маршрут выдыхает. Бульвары завершают прогулку не памятником, а пространством, дистанцией и более тихим горизонтом.\n\nКрай Вислы даёт маршруту финальное расширение пространства. После улиц, дворов и перехода по мосту набережная позволяет закончить прогулку в более медленном и широком кадре."
+      },
+      "transcript": {
+        "en": "The river is where this route exhales. The boulevards do not end the walk with a monument, but with space, distance, and a quieter horizon.\n\nThe Vistula edge gives the route a final release of space. After streets, courtyards, and the bridge crossing, the riverfront lets the walk end in a slower and broader frame.",
+        "ru": "Река — место, где этот маршрут выдыхает. Бульвары завершают прогулку не памятником, а пространством, дистанцией и более тихим горизонтом.\n\nКрай Вислы даёт маршруту финальное расширение пространства. После улиц, дворов и перехода по мосту набережная позволяет закончить прогулку в более медленном и широком кадре."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/romantic/audio/en/stop-vistula-kazimierz.mp3",
+        "ru": "assets/route_media/romantic/audio/ru/stop-vistula-kazimierz.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-vistula-kazimierz-01",
+          "assetPath": "assets/route_media/romantic/stop-vistula-kazimierz/01.jpg"
+        },
+        {
+          "assetId": "stop-vistula-kazimierz-02",
+          "assetPath": "assets/route_media/romantic/stop-vistula-kazimierz/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-podgorze-market",
+      "routeId": "route-views",
+      "orderIndex": 1,
+      "latitude": 50.04422,
+      "longitude": 19.949206,
+      "audioTrackId": "audio-stop-podgorze-market",
+      "title": {
+        "en": "Podgórze Market Square",
+        "ru": "Рынок Подгужа"
+      },
+      "summary": {
+        "en": "The local square that opens the hillside route.",
+        "ru": "Локальная площадь, с которой начинается маршрут по склонам."
+      },
+      "body": {
+        "en": "Podgórze Market Square begins this route quietly. That matters because the walk is about perspective gained over time, not an immediate dramatic reveal.\n\nRynek Podgórski starts the viewpoints route at a human neighborhood scale. It is not a grand opening, but a measured one that makes the climb ahead feel earned.",
+        "ru": "Рынок Подгужа начинает этот маршрут спокойно. Это важно, потому что прогулка строится на перспективе, которая открывается постепенно, а не на мгновенном эффектном раскрытии.\n\nRynek Podgórski начинает маршрут по смотровым точкам в масштабе района. Это не грандиозное вступление, а более сдержанное, из-за чего дальнейший подъём ощущается оправданным."
+      },
+      "transcript": {
+        "en": "Podgórze Market Square begins this route quietly. That matters because the walk is about perspective gained over time, not an immediate dramatic reveal.\n\nRynek Podgórski starts the viewpoints route at a human neighborhood scale. It is not a grand opening, but a measured one that makes the climb ahead feel earned.",
+        "ru": "Рынок Подгужа начинает этот маршрут спокойно. Это важно, потому что прогулка строится на перспективе, которая открывается постепенно, а не на мгновенном эффектном раскрытии.\n\nRynek Podgórski начинает маршрут по смотровым точкам в масштабе района. Это не грандиозное вступление, а более сдержанное, из-за чего дальнейший подъём ощущается оправданным."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/views/audio/en/stop-podgorze-market.mp3",
+        "ru": "assets/route_media/views/audio/ru/stop-podgorze-market.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-podgorze-market-01",
+          "assetPath": "assets/route_media/views/stop-podgorze-market/01.jpg"
+        },
+        {
+          "assetId": "stop-podgorze-market-02",
+          "assetPath": "assets/route_media/views/stop-podgorze-market/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-st-joseph",
+      "routeId": "route-views",
+      "orderIndex": 2,
+      "latitude": 50.043274,
+      "longitude": 19.949897,
+      "audioTrackId": "audio-stop-st-joseph",
+      "title": {
+        "en": "St. Joseph’s Church",
+        "ru": "Костёл Святого Иосифа"
+      },
+      "summary": {
+        "en": "A tall facade that sharpens the square into a vertical stop.",
+        "ru": "Высокий фасад, который переводит площадь в вертикальный акцент."
+      },
+      "body": {
+        "en": "St. Joseph’s gives the route one clear upward line before the climb turns outward to broader views. It is a precise, vertical pause before the hillside opens.\n\nThe church gives Podgórze Market its strongest vertical frame. On this route it acts as a marker before the walk starts moving into slopes, terraces, and wider viewpoints.",
+        "ru": "Костёл Святого Иосифа даёт маршруту одну ясную вертикальную линию перед тем, как подъём развернётся к более широким видам. Это точная, вертикальная пауза перед раскрытием склона.\n\nЭтот костёл создаёт самый сильный вертикальный акцент на Рынке Подгужа. Внутри маршрута он работает как маркер перед тем, как прогулка перейдёт к склонам, террасам и более широким видам."
+      },
+      "transcript": {
+        "en": "St. Joseph’s gives the route one clear upward line before the climb turns outward to broader views. It is a precise, vertical pause before the hillside opens.\n\nThe church gives Podgórze Market its strongest vertical frame. On this route it acts as a marker before the walk starts moving into slopes, terraces, and wider viewpoints.",
+        "ru": "Костёл Святого Иосифа даёт маршруту одну ясную вертикальную линию перед тем, как подъём развернётся к более широким видам. Это точная, вертикальная пауза перед раскрытием склона.\n\nЭтот костёл создаёт самый сильный вертикальный акцент на Рынке Подгужа. Внутри маршрута он работает как маркер перед тем, как прогулка перейдёт к склонам, террасам и более широким видам."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/views/audio/en/stop-st-joseph.mp3",
+        "ru": "assets/route_media/views/audio/ru/stop-st-joseph.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-st-joseph-01",
+          "assetPath": "assets/route_media/views/stop-st-joseph/01.jpg"
+        },
+        {
+          "assetId": "stop-st-joseph-02",
+          "assetPath": "assets/route_media/views/stop-st-joseph/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-bednarski-terrace",
+      "routeId": "route-views",
+      "orderIndex": 3,
+      "latitude": 50.041756,
+      "longitude": 19.949499,
+      "audioTrackId": "audio-stop-bednarski-terrace",
+      "title": {
+        "en": "Bednarski Park Terrace",
+        "ru": "Терраса парка Беднарского"
+      },
+      "summary": {
+        "en": "A first terrace where the route starts to open.",
+        "ru": "Первая терраса, где маршрут начинает раскрываться."
+      },
+      "body": {
+        "en": "This terrace matters because it changes the walk from urban frontage to layered outlooks. You start seeing Podgórze less as a street grid and more as rising ground.\n\nAt Bednarski Park the route leaves the square geometry behind and begins to work with slope, foliage, and partial views. It is an intermediate stop where perspective starts building but is not fully released yet.",
+        "ru": "Эта терраса важна тем, что переводит прогулку от городских фасадов к многослойным видам. Подгуже начинает читаться не как сетка улиц, а как поднимающийся рельеф.\n\nУ парка Беднарского маршрут уходит от геометрии площади и начинает работать со склоном, деревьями и частичными видами. Это промежуточная точка, где перспектива уже собирается, но ещё не раскрывается полностью."
+      },
+      "transcript": {
+        "en": "This terrace matters because it changes the walk from urban frontage to layered outlooks. You start seeing Podgórze less as a street grid and more as rising ground.\n\nAt Bednarski Park the route leaves the square geometry behind and begins to work with slope, foliage, and partial views. It is an intermediate stop where perspective starts building but is not fully released yet.",
+        "ru": "Эта терраса важна тем, что переводит прогулку от городских фасадов к многослойным видам. Подгуже начинает читаться не как сетка улиц, а как поднимающийся рельеф.\n\nУ парка Беднарского маршрут уходит от геометрии площади и начинает работать со склоном, деревьями и частичными видами. Это промежуточная точка, где перспектива уже собирается, но ещё не раскрывается полностью."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/views/audio/en/stop-bednarski-terrace.mp3",
+        "ru": "assets/route_media/views/audio/ru/stop-bednarski-terrace.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-bednarski-terrace-01",
+          "assetPath": "assets/route_media/views/stop-bednarski-terrace/01.jpg"
+        },
+        {
+          "assetId": "stop-bednarski-terrace-02",
+          "assetPath": "assets/route_media/views/stop-bednarski-terrace/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-liban-overlook",
+      "routeId": "route-views",
+      "orderIndex": 4,
+      "latitude": 50.037658,
+      "longitude": 19.960078,
+      "audioTrackId": "audio-stop-liban-overlook",
+      "title": {
+        "en": "Liban Overlook",
+        "ru": "Смотровая у карьера Либан"
+      },
+      "summary": {
+        "en": "A rougher and more exposed quarry-side viewpoint.",
+        "ru": "Более грубая и открытая точка у карьера."
+      },
+      "body": {
+        "en": "Liban is important because the view comes with raw terrain, not polished framing. The route becomes more dramatic here without becoming theatrical.\n\nThe Liban overlook changes the feel of the route again. Instead of a framed park terrace, the city appears beside quarry edges and rougher ground, which makes the viewpoint feel more exposed and less domesticated.",
+        "ru": "Либан важен тем, что вид здесь приходит вместе с сырым рельефом, а не с отполированной рамкой. Маршрут становится более драматичным, не превращаясь в театр.\n\nСмотровая у Либана снова меняет характер маршрута. Вместо аккуратной парковой террасы город появляется рядом с краями карьера и более грубым рельефом, поэтому вид ощущается более открытым и менее прирученным."
+      },
+      "transcript": {
+        "en": "Liban is important because the view comes with raw terrain, not polished framing. The route becomes more dramatic here without becoming theatrical.\n\nThe Liban overlook changes the feel of the route again. Instead of a framed park terrace, the city appears beside quarry edges and rougher ground, which makes the viewpoint feel more exposed and less domesticated.",
+        "ru": "Либан важен тем, что вид здесь приходит вместе с сырым рельефом, а не с отполированной рамкой. Маршрут становится более драматичным, не превращаясь в театр.\n\nСмотровая у Либана снова меняет характер маршрута. Вместо аккуратной парковой террасы город появляется рядом с краями карьера и более грубым рельефом, поэтому вид ощущается более открытым и менее прирученным."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/views/audio/en/stop-liban-overlook.mp3",
+        "ru": "assets/route_media/views/audio/ru/stop-liban-overlook.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-liban-overlook-01",
+          "assetPath": "assets/route_media/views/stop-liban-overlook/01.jpg"
+        },
+        {
+          "assetId": "stop-liban-overlook-02",
+          "assetPath": "assets/route_media/views/stop-liban-overlook/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-st-benedict",
+      "routeId": "route-views",
+      "orderIndex": 5,
+      "latitude": 50.0422,
+      "longitude": 19.957664,
+      "audioTrackId": "audio-stop-st-benedict",
+      "title": {
+        "en": "Fort St. Benedict",
+        "ru": "Форт Святого Бенедикта"
+      },
+      "summary": {
+        "en": "A compact hilltop stop before the final mound.",
+        "ru": "Компактная точка на возвышении перед финальным курганом."
+      },
+      "body": {
+        "en": "This stop matters because it keeps the route climbing in smaller steps. Fort St. Benedict adds another elevated pause before the final, wider view.\n\nFort St. Benedict feels smaller than the mound ahead, but it sharpens the route’s hillside character. The walk becomes less about one panoramic finish and more about a chain of elevated pauses.",
+        "ru": "Эта точка важна тем, что сохраняет подъём маршрута небольшими шагами. Форт Святого Бенедикта добавляет ещё одну поднятую паузу перед финальным, более широким видом.\n\nФорт Святого Бенедикта кажется менее масштабным, чем будущий финал на кургане, но именно он заостряет горный характер маршрута. Прогулка начинает строиться не вокруг одной панорамы, а вокруг цепочки поднятых остановок."
+      },
+      "transcript": {
+        "en": "This stop matters because it keeps the route climbing in smaller steps. Fort St. Benedict adds another elevated pause before the final, wider view.\n\nFort St. Benedict feels smaller than the mound ahead, but it sharpens the route’s hillside character. The walk becomes less about one panoramic finish and more about a chain of elevated pauses.",
+        "ru": "Эта точка важна тем, что сохраняет подъём маршрута небольшими шагами. Форт Святого Бенедикта добавляет ещё одну поднятую паузу перед финальным, более широким видом.\n\nФорт Святого Бенедикта кажется менее масштабным, чем будущий финал на кургане, но именно он заостряет горный характер маршрута. Прогулка начинает строиться не вокруг одной панорамы, а вокруг цепочки поднятых остановок."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/views/audio/en/stop-st-benedict.mp3",
+        "ru": "assets/route_media/views/audio/ru/stop-st-benedict.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-st-benedict-01",
+          "assetPath": "assets/route_media/views/stop-st-benedict/01.jpg"
+        },
+        {
+          "assetId": "stop-st-benedict-02",
+          "assetPath": "assets/route_media/views/stop-st-benedict/02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stop-krakus-mound",
+      "routeId": "route-views",
+      "orderIndex": 6,
+      "latitude": 50.038148,
+      "longitude": 19.958485,
+      "audioTrackId": "audio-stop-krakus-mound",
+      "title": {
+        "en": "Krakus Mound",
+        "ru": "Курган Кракуса"
+      },
+      "summary": {
+        "en": "The broadest final outlook of the route.",
+        "ru": "Самый широкий финальный обзор всего маршрута."
+      },
+      "body": {
+        "en": "Krakus Mound closes this route with the largest horizon of all our walks. The view feels earned because the walk has been climbing toward it in stages from the very first stop.\n\nKrakus Mound is the finish because it releases the route into its widest frame. After the market square, church, terraces, quarry edge, and fort, the mound makes the full uphill logic of Podgórze visible at once.",
+        "ru": "Курган Кракуса завершает этот маршрут самым широким горизонтом из всех наших прогулок. Этот вид ощущается заслуженным, потому что прогулка поднималась к нему поэтапно с самой первой точки.\n\nКурган Кракуса выбран финалом, потому что раскрывает маршрут в самом широком кадре. После площади, костёла, террас, края карьера и форта курган делает всю логику подъёма Подгужа видимой сразу."
+      },
+      "transcript": {
+        "en": "Krakus Mound closes this route with the largest horizon of all our walks. The view feels earned because the walk has been climbing toward it in stages from the very first stop.\n\nKrakus Mound is the finish because it releases the route into its widest frame. After the market square, church, terraces, quarry edge, and fort, the mound makes the full uphill logic of Podgórze visible at once.",
+        "ru": "Курган Кракуса завершает этот маршрут самым широким горизонтом из всех наших прогулок. Этот вид ощущается заслуженным, потому что прогулка поднималась к нему поэтапно с самой первой точки.\n\nКурган Кракуса выбран финалом, потому что раскрывает маршрут в самом широком кадре. После площади, костёла, террас, края карьера и форта курган делает всю логику подъёма Подгужа видимой сразу."
+      },
+      "audioAssets": {
+        "en": "assets/route_media/views/audio/en/stop-krakus-mound.mp3",
+        "ru": "assets/route_media/views/audio/ru/stop-krakus-mound.mp3"
+      },
+      "galleryImages": [
+        {
+          "assetId": "stop-krakus-mound-01",
+          "assetPath": "assets/route_media/views/stop-krakus-mound/01.jpg"
+        },
+        {
+          "assetId": "stop-krakus-mound-02",
+          "assetPath": "assets/route_media/views/stop-krakus-mound/02.jpg"
+        }
+      ]
+    }
+  ],
+  "placeLists": [
+    {
+      "id": "cafes",
+      "icon": "cafe",
+      "title": {
+        "en": "Best cafés in Kraków",
+        "ru": "Лучшие кафе Кракова"
+      },
+      "subtitle": {
+        "en": "Historic cafés and quiet corners",
+        "ru": "Старые кафе и тихие уголки"
+      },
+      "intro": {
+        "en": "Where to stop for a coffee between walks, from the Main Market Square to Kazimierz.",
+        "ru": "Где выпить кофе между прогулками — от Рыночной площади до Казимежа."
+      },
+      "places": [
+        {
+          "id": "noworolski",
+          "name": {
+            "en": "Noworolski",
+            "ru": "Новорольски"
+          },
+          "summary": {
+            "en": "Historic café in the Cloth Hall arcades",
+            "ru": "Историческое кафе в аркадах Сукенниц"
+          },
+          "description": {
+            "en": "A historic café inside the Cloth Hall on the Main Market Square. Its rooms keep their Art Nouveau interiors, and in the warm months tables stand outside under the arcades.",
+            "ru": "Историческое кафе в здании Сукенниц на Рыночной площади. В залах сохранились интерьеры в стиле модерн, а в тёплое время столики стоят снаружи, под аркадами."
+          },
+          "address": "Rynek Główny 1",
+          "district": "Stare Miasto",
+          "latitude": 50.061546,
+          "longitude": 19.937468,
+          "osm": "node/3789279757"
+        },
+        {
+          "id": "jama-michalika",
+          "name": {
+            "en": "Jama Michalika",
+            "ru": "Яма Михалика"
+          },
+          "summary": {
+            "en": "Art Nouveau café on Floriańska Street",
+            "ru": "Кафе в стиле модерн на Флорианской улице"
+          },
+          "description": {
+            "en": "A café on Floriańska Street with an Art Nouveau interior. At the start of the 20th century it was the home of the Green Balloon, the first Polish literary cabaret.",
+            "ru": "Кафе на Флорианской улице с интерьером в стиле модерн. В начале XX века здесь выступало кабаре «Зелёный Балоник» — первое польское литературное кабаре."
+          },
+          "address": "Floriańska 45",
+          "district": "Stare Miasto",
+          "latitude": 50.064084,
+          "longitude": 19.940929,
+          "osm": "node/3320712471"
+        },
+        {
+          "id": "camelot",
+          "name": {
+            "en": "Camelot Cafe",
+            "ru": "Камелот"
+          },
+          "summary": {
+            "en": "Small café on St Thomas Street",
+            "ru": "Небольшое кафе на улице Святого Томаша"
+          },
+          "description": {
+            "en": "A small café in an old house on St Thomas Street, a couple of minutes from the Main Market Square. In the warm months there are tables outside.",
+            "ru": "Небольшое кафе в старом доме на улице Святого Томаша, в паре минут от Рыночной площади. В тёплое время столики выносят на улицу."
+          },
+          "address": "Świętego Tomasza 17",
+          "district": "Stare Miasto",
+          "latitude": 50.062997,
+          "longitude": 19.939105,
+          "osm": "node/10951576960"
+        },
+        {
+          "id": "nowa-prowincja",
+          "name": {
+            "en": "Nowa Prowincja",
+            "ru": "Нова Провинция"
+          },
+          "summary": {
+            "en": "Quiet café on Bracka Street",
+            "ru": "Тихое кафе на Брацкой улице"
+          },
+          "description": {
+            "en": "A small café on Bracka Street, a few steps from the Main Market Square. It serves breakfasts, cakes and coffee.",
+            "ru": "Небольшое кафе на Брацкой улице, в нескольких шагах от Рыночной площади. Здесь подают завтраки, пирожные и кофе."
+          },
+          "address": "Bracka 5",
+          "district": "Stare Miasto",
+          "latitude": 50.060426,
+          "longitude": 19.936154,
+          "osm": "node/3049394039"
+        },
+        {
+          "id": "massolit",
+          "name": {
+            "en": "Massolit Books & Café",
+            "ru": "Массолит"
+          },
+          "summary": {
+            "en": "Café in an English-language bookshop",
+            "ru": "Кафе в англоязычном книжном магазине"
+          },
+          "description": {
+            "en": "A café inside an English-language bookshop, with tables among shelves of new and second-hand books. The Planty and Wawel are a short walk away.",
+            "ru": "Кафе внутри англоязычного книжного магазина: столики стоят среди полок с новыми и букинистическими книгами. Отсюда недалеко до Плант и Вавеля."
+          },
+          "address": "Felicjanek 4",
+          "district": "Stare Miasto",
+          "latitude": 50.05845,
+          "longitude": 19.929604,
+          "osm": "node/3519353826"
+        },
+        {
+          "id": "cafe-manggha",
+          "name": {
+            "en": "Café Manggha",
+            "ru": "Кафе музея «Манггха»"
+          },
+          "summary": {
+            "en": "Museum café with a view of Wawel",
+            "ru": "Кафе в музее с видом на Вавель"
+          },
+          "description": {
+            "en": "The café of the Manggha Museum of Japanese Art and Technology, on the far bank of the Vistula. From its windows you look across the river to Wawel.",
+            "ru": "Кафе музея японского искусства и техники «Манггха» на другом берегу Вислы. Из его окон виден Вавель за рекой."
+          },
+          "address": "Marii Konopnickiej 26",
+          "district": "Dębniki",
+          "latitude": 50.051149,
+          "longitude": 19.931611,
+          "osm": "node/7219309632"
+        },
+        {
+          "id": "mleczarnia",
+          "name": {
+            "en": "Mleczarnia",
+            "ru": "Млечарня"
+          },
+          "summary": {
+            "en": "Café with a summer garden in Kazimierz",
+            "ru": "Кафе с летним садом в Казимеже"
+          },
+          "description": {
+            "en": "A café on Meiselsa Street in Kazimierz with an old-fashioned interior. In summer it opens a garden across the street.",
+            "ru": "Кафе на улице Мейзельса в Казимеже со старомодным интерьером. Летом напротив открывается его сад."
+          },
+          "address": "Beera Meiselsa 20",
+          "district": "Kazimierz",
+          "latitude": 50.051361,
+          "longitude": 19.943933,
+          "osm": "node/2026934622"
+        },
+        {
+          "id": "cheder",
+          "name": {
+            "en": "Cheder",
+            "ru": "Хедер"
+          },
+          "summary": {
+            "en": "Café on Józefa Street in Kazimierz",
+            "ru": "Кафе на улице Юзефа в Казимеже"
+          },
+          "description": {
+            "en": "A café in Kazimierz run by the Jewish Culture Festival. Its name is the Hebrew word for a traditional Jewish elementary school.",
+            "ru": "Кафе в Казимеже, которым управляет Фестиваль еврейской культуры. «Хедер» — так называется традиционная еврейская начальная школа."
+          },
+          "address": "Józefa 36",
+          "district": "Kazimierz",
+          "latitude": 50.0513,
+          "longitude": 19.947134,
+          "osm": "node/4683393791"
+        }
+      ]
+    },
+    {
+      "id": "crafts",
+      "icon": "crafts",
+      "title": {
+        "en": "Local crafts & souvenirs",
+        "ru": "Ремёсла и сувениры"
+      },
+      "subtitle": {
+        "en": "Folk art, posters, pottery",
+        "ru": "Промыслы, плакаты, керамика"
+      },
+      "intro": {
+        "en": "Shops for something made in Kraków or elsewhere in Poland to take home.",
+        "ru": "Где найти то, что сделано в Кракове или в Польше, чтобы увезти домой."
+      },
+      "places": [
+        {
+          "id": "cloth-hall-stalls",
+          "name": {
+            "en": "Cloth Hall stalls",
+            "ru": "Торговые ряды Сукенниц"
+          },
+          "summary": {
+            "en": "Market stalls inside the Cloth Hall",
+            "ru": "Лавки внутри Сукенниц"
+          },
+          "description": {
+            "en": "The Renaissance trading hall in the middle of the Main Market Square. Along its central passage stand rows of stalls with amber jewellery, carved wood, embroidery and other souvenirs.",
+            "ru": "Ренессансные торговые ряды посреди Рыночной площади. Вдоль центрального прохода тянутся лавки с янтарём, резьбой по дереву, вышивкой и другими сувенирами."
+          },
+          "address": "Rynek Główny 3",
+          "district": "Stare Miasto",
+          "latitude": 50.0617,
+          "longitude": 19.937362,
+          "osm": "way/23256528"
+        },
+        {
+          "id": "krakuska-sztuka-ludowa",
+          "name": {
+            "en": "Krakuska Sztuka Ludowa",
+            "ru": "Krakuska Sztuka Ludowa"
+          },
+          "summary": {
+            "en": "Folk art shop on Szewska Street",
+            "ru": "Магазин народного искусства на Шевской"
+          },
+          "description": {
+            "en": "A small shop of Polish folk art on Szewska Street, just off the Main Market Square. The name means “Kraków folk art”.",
+            "ru": "Небольшой магазин польского народного искусства на улице Шевской, в двух шагах от Рыночной площади. Название переводится как «краковское народное искусство»."
+          },
+          "address": "Szewska",
+          "district": "Stare Miasto",
+          "latitude": 50.062435,
+          "longitude": 19.935382,
+          "osm": "node/488257861"
+        },
+        {
+          "id": "mleczko-gallery",
+          "name": {
+            "en": "Andrzej Mleczko Gallery",
+            "ru": "Галерея Анджея Млечко"
+          },
+          "summary": {
+            "en": "Gallery shop of a Polish cartoonist",
+            "ru": "Галерея-магазин польского карикатуриста"
+          },
+          "description": {
+            "en": "The gallery of Andrzej Mleczko, a Polish satirical cartoonist, on St John’s Street. It sells prints, posters and postcards with his drawings.",
+            "ru": "Галерея польского карикатуриста Анджея Млечко на улице Святого Яна. Здесь продаются репродукции, плакаты и открытки с его рисунками."
+          },
+          "address": "Świętego Jana 14",
+          "district": "Stare Miasto",
+          "latitude": 50.063565,
+          "longitude": 19.938765,
+          "osm": "node/490986462"
+        },
+        {
+          "id": "poster-gallery",
+          "name": {
+            "en": "Cracow Poster Gallery",
+            "ru": "Галерея плаката"
+          },
+          "summary": {
+            "en": "Polish posters on Stolarska Street",
+            "ru": "Польский плакат на улице Столярской"
+          },
+          "description": {
+            "en": "A shop of Polish posters on Stolarska Street, near the Main Market Square. It has film, theatre and exhibition posters, old and new.",
+            "ru": "Магазин польского плаката на улице Столярской, рядом с Рыночной площадью. Здесь есть афиши кино, театра и выставок, старые и новые."
+          },
+          "address": "Stolarska 8",
+          "district": "Stare Miasto",
+          "latitude": 50.060028,
+          "longitude": 19.939224,
+          "osm": "node/12986045133"
+        },
+        {
+          "id": "chocolate-manufactory",
+          "name": {
+            "en": "Krakowska Manufaktura Czekolady",
+            "ru": "Краковская шоколадная мануфактура"
+          },
+          "summary": {
+            "en": "Chocolate shop near the Main Market Square",
+            "ru": "Шоколадный магазин у Рыночной площади"
+          },
+          "description": {
+            "en": "The shop of a Kraków chocolate maker on Gołębia Street, a short walk from the Main Market Square. A box of chocolates or a bar is an easy present to take home.",
+            "ru": "Магазин краковской шоколадной мануфактуры на улице Голембя, недалеко от Рыночной площади. Коробка конфет или плитка шоколада — подарок, который легко увезти."
+          },
+          "address": "Gołębia",
+          "district": "Stare Miasto",
+          "latitude": 50.060614,
+          "longitude": 19.935101,
+          "osm": "node/11554648642"
+        },
+        {
+          "id": "boleslawiec-pottery",
+          "name": {
+            "en": "Bolesławiec pottery",
+            "ru": "Керамика из Болеславца"
+          },
+          "summary": {
+            "en": "Blue-patterned pottery from Lower Silesia",
+            "ru": "Керамика с синим узором из Нижней Силезии"
+          },
+          "description": {
+            "en": "A shop of Bolesławiec pottery on Stradomska Street, between the Old Town and Kazimierz. This stoneware from Lower Silesia is decorated by hand with blue stamped patterns.",
+            "ru": "Магазин болеславецкой керамики на Страдомской улице, между Старым городом и Казимежем. Эту каменную керамику из Нижней Силезии вручную украшают синими узорами с помощью штампов."
+          },
+          "address": "Stradomska 15",
+          "district": "Stare Miasto",
+          "latitude": 50.052919,
+          "longitude": 19.940032,
+          "osm": "node/7019584088"
+        },
+        {
+          "id": "austeria",
+          "name": {
+            "en": "Austeria",
+            "ru": "Аустерия"
+          },
+          "summary": {
+            "en": "Bookshop on Szeroka Street in Kazimierz",
+            "ru": "Книжный магазин на Широкой улице в Казимеже"
+          },
+          "description": {
+            "en": "The bookshop of the Austeria publishing house on Szeroka Street in Kazimierz. It has books on Jewish history and culture.",
+            "ru": "Книжный магазин издательства «Аустерия» на Широкой улице в Казимеже. Здесь продаются книги о еврейской истории и культуре."
+          },
+          "address": "Szeroka 6",
+          "district": "Kazimierz",
+          "latitude": 50.053217,
+          "longitude": 19.948257,
+          "osm": "node/7609610104"
+        },
+        {
+          "id": "stained-glass-museum",
+          "name": {
+            "en": "Stained Glass Museum",
+            "ru": "Музей витража"
+          },
+          "summary": {
+            "en": "A working stained-glass studio",
+            "ru": "Действующая мастерская витража"
+          },
+          "description": {
+            "en": "A stained-glass studio that has worked in Kraków for more than a century and is now also a museum. Visitors can see how windows are made in the workshop.",
+            "ru": "Мастерская витража, которая работает в Кракове больше ста лет, а теперь стала ещё и музеем. Здесь можно увидеть, как в мастерской делают витражи."
+          },
+          "address": "Aleja Zygmunta Krasińskiego 23",
+          "district": "Zwierzyniec",
+          "latitude": 50.059009,
+          "longitude": 19.925705,
+          "osm": "node/4817320821"
+        }
+      ]
+    },
+    {
+      "id": "viewpoints",
+      "icon": "viewpoint",
+      "title": {
+        "en": "Free viewpoints",
+        "ru": "Бесплатные смотровые точки"
+      },
+      "subtitle": {
+        "en": "Hills, bridges and riverbanks",
+        "ru": "Холмы, мосты и набережные"
+      },
+      "intro": {
+        "en": "Where to look at the city from above or across the Vistula, no ticket needed.",
+        "ru": "Откуда посмотреть на город сверху или через Вислу — без билета."
+      },
+      "places": [
+        {
+          "id": "wawel-hill",
+          "name": {
+            "en": "Wawel Hill",
+            "ru": "Вавельский холм"
+          },
+          "summary": {
+            "en": "Castle courtyards above the Vistula",
+            "ru": "Дворы замка над Вислой"
+          },
+          "description": {
+            "en": "The grounds of Wawel Hill are free to walk; tickets are needed only for the exhibitions. From the walls you look down on the Vistula and across to Kazimierz and Podgórze.",
+            "ru": "По территории Вавельского холма можно гулять свободно, билеты нужны только на выставки. Со стен видно Вислу, а за ней — Казимеж и Подгуже."
+          },
+          "district": "Stare Miasto",
+          "latitude": 50.054747,
+          "longitude": 19.936107,
+          "osm": "node/7834497364"
+        },
+        {
+          "id": "czerwienski-boulevard",
+          "name": {
+            "en": "Czerwieński Boulevard",
+            "ru": "Бульвар Червеньский"
+          },
+          "summary": {
+            "en": "Riverside path below Wawel",
+            "ru": "Набережная под Вавелем"
+          },
+          "description": {
+            "en": "The riverside path at the foot of Wawel Hill. From here the castle and its walls rise straight above the river.",
+            "ru": "Прогулочная дорожка у подножия Вавельского холма. Отсюда видно, как замок и его стены поднимаются прямо над рекой."
+          },
+          "address": "Bulwar Czerwieński",
+          "district": "Stare Miasto",
+          "latitude": 50.051907,
+          "longitude": 19.933688,
+          "osm": "way/114713970"
+        },
+        {
+          "id": "bernatek-footbridge",
+          "name": {
+            "en": "Father Bernatek Footbridge",
+            "ru": "Кладка Бернатка"
+          },
+          "summary": {
+            "en": "Footbridge between Kazimierz and Podgórze",
+            "ru": "Пешеходный мост между Казимежем и Подгуже"
+          },
+          "description": {
+            "en": "A footbridge over the Vistula between Kazimierz and Podgórze. Sculptures of balancing acrobats hang above the deck, and the river opens up in both directions.",
+            "ru": "Пешеходный мост через Вислу между Казимежем и Подгуже. Над настилом висят скульптуры балансирующих акробатов, а река видна в обе стороны."
+          },
+          "district": "Kazimierz",
+          "latitude": 50.046563,
+          "longitude": 19.947499,
+          "osm": "way/242682567"
+        },
+        {
+          "id": "podolski-boulevard",
+          "name": {
+            "en": "Podolski Boulevard",
+            "ru": "Бульвар Подольский"
+          },
+          "summary": {
+            "en": "Podgórze riverbank facing Kazimierz",
+            "ru": "Набережная Подгуже напротив Казимежа"
+          },
+          "description": {
+            "en": "The riverside path on the Podgórze bank of the Vistula, between the bridges. It looks across the water to Kazimierz.",
+            "ru": "Прогулочная дорожка на подгужском берегу Вислы, между мостами. С неё открывается вид через реку на Казимеж."
+          },
+          "address": "Bulwar Podolski",
+          "district": "Podgórze",
+          "latitude": 50.044994,
+          "longitude": 19.945504,
+          "osm": "way/196217638"
+        },
+        {
+          "id": "lasota-hill",
+          "name": {
+            "en": "Lasota Hill",
+            "ru": "Холм Ласоты"
+          },
+          "summary": {
+            "en": "Hill with St Benedict’s Church",
+            "ru": "Холм с костёлом Святого Бенедикта"
+          },
+          "description": {
+            "en": "A green hill in Podgórze with the small Church of St Benedict and the walls of a 19th-century Austrian fort. From its slopes you see the Old Town across the river.",
+            "ru": "Зелёный холм в Подгуже с маленьким костёлом Святого Бенедикта и стенами австрийского форта XIX века. С его склонов виден Старый город за рекой."
+          },
+          "district": "Podgórze",
+          "latitude": 50.043299,
+          "longitude": 19.957442,
+          "osm": "node/7785673819"
+        },
+        {
+          "id": "krakus-mound",
+          "name": {
+            "en": "Krakus Mound",
+            "ru": "Курган Крака"
+          },
+          "summary": {
+            "en": "Ancient mound above Podgórze",
+            "ru": "Древний курган над Подгуже"
+          },
+          "description": {
+            "en": "An ancient earth mound on a hill in Podgórze, named after Krakus, the legendary founder of Kraków. From the top you see the whole city, with Wawel and the Old Town to the north-west.",
+            "ru": "Древний земляной курган на холме в Подгуже, названный в честь Крака — легендарного основателя Кракова. С вершины виден весь город, а на северо-западе — Вавель и Старый город."
+          },
+          "district": "Podgórze",
+          "latitude": 50.038082,
+          "longitude": 19.958435,
+          "osm": "node/288621733"
+        },
+        {
+          "id": "liban-quarry",
+          "name": {
+            "en": "Liban Quarry viewpoint",
+            "ru": "Вид на каменоломню Либана"
+          },
+          "summary": {
+            "en": "Former quarry, now a protected area",
+            "ru": "Бывшая каменоломня, теперь охраняемая природа"
+          },
+          "description": {
+            "en": "A viewpoint above the former Liban limestone quarry, a short walk south of Krakus Mound. The quarry closed in the 1980s and is now a protected natural area.",
+            "ru": "Смотровая точка над бывшей известняковой каменоломней Либана, в нескольких минутах к югу от кургана Крака. Каменоломня закрылась в 1980-х, теперь это охраняемый природный участок."
+          },
+          "district": "Podgórze",
+          "latitude": 50.036119,
+          "longitude": 19.958428,
+          "osm": "node/13966034787"
+        }
+      ]
+    }
+  ],
+  "teaserMap": {
+    "city": "Kraków",
+    "mode": "teaser-map",
+    "includesPaidDisclosure": false,
+    "highlightedDistricts": [
+      "Stare Miasto",
+      "Kazimierz",
+      "Podgórze"
+    ]
+  },
+  "legal": {
+    "digitalAccessDisclosureUrl": "https://example.com/legal/digital-access",
+    "privacyPolicyUrl": "https://example.com/legal/privacy",
+    "termsOfServiceUrl": "https://example.com/legal/terms",
+    "digitalAccessDisclosureBody": "1. Access Terms\n\nThe Krakow Guide is the discovery catalog. Access is granted to a purchased route individually. One purchase transaction grants access to one specific route. Any route not yet acquired remains a locked route.\n\n- Access is linked to the platform purchase account.\n- Access to each route is granted separately.\n\n2. Offline Readiness\n\nThe offline download unit is one purchased route in the current app language. To ensure a route is available offline, you must specifically download this route to your device local storage while an internet connection is active.",
+    "privacyPolicyBody": "1. Data Architecture\n\nKrakow Guide is a standalone mobile app. We do not require users to create an account or provide personal identity information such as name or email to access the guide content. All downloaded routes and user preferences are handled through on-device processing.\n\nLocation Services: Route navigation and nearby stop recommendations utilize real-time GPS data. This information is processed strictly on-device to maintain your privacy while exploring.\n\nOffline Route Storage: Downloaded routes, saved progress, and app settings are stored locally in your smartphone's secure storage. These files are typically deleted if you uninstall the app.\n\n2. Information We Collect\n\nTo ensure app stability and improve performance, we collect limited technical information:\n\n- Diagnostic Data: Crash reports and performance logs to ensure route download reliability and map stability.\n- Engagement Metrics: Aggregate usage data, such as popular route categories and stops, is used to refine content updates.\n- Route Purchase Validation: Licensing tokens are verified with your device's app store provider to authorize purchased-route access and route downloads.\n\n3. Third-Party Map Providers\n\nWe utilize external map tile providers to render geographical data. When you view the map, your IP address is shared with these providers to deliver the necessary assets to your device. These providers operate under their own privacy policies for tile delivery.",
+    "termsOfServiceBody": "01. Acceptance of Service\n\nBy downloading or using the Krakow Guide, you agree to these Terms of Service. These terms constitute a legal agreement between you and the application provider. If you do not agree to these terms, you should remove the application from your device.\n\n02. Digital Access\n\nAccess to specific city routes and historical content is provided through one-time digital purchases. Each purchase grants a non-transferable license to access the specific purchased route associated with that transaction on the local device.\n\n03. Offline Use and Route Downloads\n\nThe Krakow Guide operates on a route-by-route offline model. Once a purchased route is downloaded in the current app language, that route is stored locally on your device for offline use. This application does not require a mandatory user account or persistent server-side synchronization. You are responsible for ensuring sufficient storage space is available for your downloaded routes.\n\n04. Intellectual Property\n\nAll maps, text descriptions, and photography within the Krakow Guide are protected by copyright law. Content is licensed for personal, non-commercial use only. Redistribution, extraction, or reproduction of guide assets without prior written authorization is strictly prohibited.\n\n05. Limitation of Liability\n\nThe application is provided \"as is\" for informational purposes. While we strive for accuracy in our guides, Krakow Guide is not liable for changes in site accessibility, local conditions, or any damages arising from the use of the navigation or information provided within the app.",
+    "supportEmail": "support@example.com"
+  }
+}

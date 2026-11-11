@@ -1,0 +1,1 @@
+We’ll attach: your app version, device model and a short technical log

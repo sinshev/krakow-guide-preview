@@ -1,0 +1,1 @@
+Downloaded stops still work. Use the list to keep walking.

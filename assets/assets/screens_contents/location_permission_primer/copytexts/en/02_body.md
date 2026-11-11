@@ -1,0 +1,1 @@
+We’ll show you on the map and let you know when a stop is near. Your location stays on your device.
