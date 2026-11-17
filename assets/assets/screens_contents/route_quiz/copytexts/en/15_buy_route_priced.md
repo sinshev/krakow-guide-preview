@@ -1,0 +1,1 @@
+Buy route · {price}

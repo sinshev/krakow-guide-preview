@@ -1,0 +1,1 @@
+{hours} ч {minutes} мин

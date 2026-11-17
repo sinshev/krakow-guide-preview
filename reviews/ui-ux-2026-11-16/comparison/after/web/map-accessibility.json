@@ -1,0 +1,36 @@
+{
+  "url": "https://sinshev.github.io/krakow-guide-preview/reviews/ui-ux-2026-11-16/?rev=4b17d9dd3321415b#/app/map",
+  "buttons": [
+    {
+      "label": "Stop 1: Holy Spirit Square. Current",
+      "title": "Stop 1: Holy Spirit Square. Current",
+      "text": "",
+      "tabindex": "0"
+    },
+    {
+      "label": "Stop 2: Juliusz Słowacki Theater. Upcoming",
+      "title": "Stop 2: Juliusz Słowacki Theater. Upcoming",
+      "text": "",
+      "tabindex": "-1"
+    },
+    {
+      "label": "Stop 3: City Walls and St. Florian’s Gate. Upcoming",
+      "title": "Stop 3: City Walls and St. Florian’s Gate. Upcoming",
+      "text": "",
+      "tabindex": "-1"
+    },
+    {
+      "label": "Stop 4: Wall Gallery and Czartoryski Museum. Upcoming",
+      "title": "Stop 4: Wall Gallery and Czartoryski Museum. Upcoming",
+      "text": "",
+      "tabindex": "-1"
+    },
+    {
+      "label": "Stop 5: Jama Michalika. Upcoming",
+      "title": "Stop 5: Jama Michalika. Upcoming",
+      "text": "",
+      "tabindex": "-1"
+    }
+  ],
+  "screen": "Maximum Splendor\nEnd walk\nTurn on location\nNEXT STOP\nHead to stop 1 · Holy Spirit Square\nOpen story\nStops\nHome\nRoutes\nMap\nSettings"
+}

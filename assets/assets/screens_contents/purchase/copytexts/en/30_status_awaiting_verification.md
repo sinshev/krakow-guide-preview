@@ -1,0 +1,1 @@
+Your payment is safe. We’re still confirming it.

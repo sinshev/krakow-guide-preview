@@ -1,0 +1,1 @@
+Вопрос {current} из {total}

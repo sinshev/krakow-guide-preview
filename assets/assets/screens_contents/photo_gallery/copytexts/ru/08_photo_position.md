@@ -1,0 +1,1 @@
+Фото {current} из {total}

@@ -1,0 +1,1 @@
+Stop {number} of {total} · {route}

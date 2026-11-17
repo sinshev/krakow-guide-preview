@@ -1,0 +1,1 @@
+Download the route to open this stop without internet.

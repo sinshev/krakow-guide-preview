@@ -1,0 +1,1 @@
+This stop is only partly downloaded

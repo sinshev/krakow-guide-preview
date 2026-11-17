@@ -1,0 +1,18 @@
+{
+  "preview": "https://sinshev.github.io/krakow-guide-preview/reviews/ui-ux-2026-11-16/",
+  "entryPointVersion": "4b17d9dd3321415b",
+  "viewport": {"width": 1280, "height": 800},
+  "routeId": "route-roskoshny-maximum",
+  "locationEnabled": false,
+  "checks": [
+    {"scenario": "Home, route catalogue and purchased route load", "result": "passed"},
+    {"scenario": "Start walk and decline location", "result": "passed"},
+    {"scenario": "Map to first stop and back", "result": "passed", "visibleMarkers": 5},
+    {"scenario": "Map to full player and close back to map", "result": "passed", "visibleMarkers": 5, "loadedMapTiles": 12},
+    {"scenario": "Marker accessible names", "result": "passed", "before": "10 unnamed targets", "after": "5 named markers"},
+    {"scenario": "Focus marker 2 and press Enter", "result": "passed", "openedStopId": "stop-teatr-slowackiego"},
+    {"scenario": "Reproduce old grey map observation", "result": "not reproduced on repeated baseline or review checks"}
+  ],
+  "deviceChecksNotRun": ["VoiceOver and TalkBack", "outdoor GPS", "background audio and locked phone", "real billing"],
+  "userStudyRun": false
+}

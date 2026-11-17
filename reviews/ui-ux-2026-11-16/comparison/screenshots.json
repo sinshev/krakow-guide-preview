@@ -1,0 +1,502 @@
+[
+  {
+    "path": "after/en/audio-settings.png",
+    "sha256": "a2a9c54bc107af3f745722cb664e7a4fd272b0297367bccbb0fc0395977c2f4b"
+  },
+  {
+    "path": "after/en/download-failed.png",
+    "sha256": "fe72e37783255cf52df46aa04de68b394099958ec0aafc7c795b280da7327913"
+  },
+  {
+    "path": "after/en/full-player.png",
+    "sha256": "6ce6b8fac63e76fa6dfad84c77be4a89538b0bd8ca5b2bd498000477bd24e507"
+  },
+  {
+    "path": "after/en/gallery.png",
+    "sha256": "7347881b5feba126d04a92d3b6c25c039315501f9a6ada44f4fe52004ea7244e"
+  },
+  {
+    "path": "after/en/help-form.png",
+    "sha256": "171c97664ac30ede3ad1a1e91b1162cbfd9b24d912e2e442c6d39393fc345b57"
+  },
+  {
+    "path": "after/en/home-active-walk.png",
+    "sha256": "d39ab02d0a56feb1171ac91b908d569f59ef4af32a8daf903d46da7085a6559e"
+  },
+  {
+    "path": "after/en/home-active-walk_x2.png",
+    "sha256": "e20f8d3ad74a1689ef3ae383919eafc38cb7c36db14f40a705269ef8368ff4ca"
+  },
+  {
+    "path": "after/en/home-before-purchase-lists.png",
+    "sha256": "5e015783e856f6557058fe2573ef8a3e357b11ba7124e847e83b7b7787e429cb"
+  },
+  {
+    "path": "after/en/home-before-purchase.png",
+    "sha256": "5e015783e856f6557058fe2573ef8a3e357b11ba7124e847e83b7b7787e429cb"
+  },
+  {
+    "path": "after/en/home-no-active-route.png",
+    "sha256": "96152bf3ad165423413b7f0d9fc9e7a4af730e91b54ab6c0b00eaedee34a9d6f"
+  },
+  {
+    "path": "after/en/home-offline.png",
+    "sha256": "f8ad990dff2efa65b127680fd19e0fbdd5dc0b7bc9c313e1c2bcb467f003b093"
+  },
+  {
+    "path": "after/en/language-settings.png",
+    "sha256": "d498b8ef7d1b4f1c5446ea49c4a6b21c85d581715b82e3e1c59f3226c3f097b4"
+  },
+  {
+    "path": "after/en/legal.png",
+    "sha256": "80f6ecd5f9d2ce57608691b8caa21c3cfdbce72de668736c28410e9a37633184"
+  },
+  {
+    "path": "after/en/location-primer.png",
+    "sha256": "6dbdecdba3dd9f9dbf8efdee32c333d1d1261150c22c6a3da2e6ff699449b8e6"
+  },
+  {
+    "path": "after/en/map-fallback.png",
+    "sha256": "4a52d65a6b470a7c1ad49a55934750ee6b703502bc7e2cb557d2dd65910150a3"
+  },
+  {
+    "path": "after/en/no-internet.png",
+    "sha256": "9ca6947c3560cc1ee012c960ad8a0373f8f2036c6c6bae5d1676c1152d412f33"
+  },
+  {
+    "path": "after/en/offline-other-language.png",
+    "sha256": "0d32991f305c668582eeb3cc28d6ec6e3daad27e9af675cbabd5e42ffa497b5c"
+  },
+  {
+    "path": "after/en/offline-storage.png",
+    "sha256": "2db8bc0a224b727a57a7c8f0e0a651bfe0556d0865fe34c9dae21e70a20ff83e"
+  },
+  {
+    "path": "after/en/onboarding.png",
+    "sha256": "f216881b53d3ef918d65388a7499b5442b4d91a7efab24026c0d184b09174972"
+  },
+  {
+    "path": "after/en/onboarding_x2.png",
+    "sha256": "13843f03ae8cf65d9a055e8448ba391c25d678e1e8e5628689f45405f330e71f"
+  },
+  {
+    "path": "after/en/permissions-privacy.png",
+    "sha256": "16b3fe2d8e954ac1087e1b907d67db2e191843be70245c42a5675d7fc59864df"
+  },
+  {
+    "path": "after/en/place-list-offline.png",
+    "sha256": "9e144d5a9dbed0e2063eeb35c2007caa564c7dbf788bfaab041db6beccbe5896"
+  },
+  {
+    "path": "after/en/place-list.png",
+    "sha256": "4086642abc499dd19a13f6461e66bb8bc3de2ce56517b6f90f6f832a051faaa9"
+  },
+  {
+    "path": "after/en/place-sheet.png",
+    "sha256": "285cf230def83b7e7379ddab8032504d04baefbabf6d9d48521d26d5a5c1444a"
+  },
+  {
+    "path": "after/en/purchase-emails-open.png",
+    "sha256": "0d2cb6ba1a1b500e1e13661e1ca1a0272f77b3f6f3e864a427fe0aadb8fde093"
+  },
+  {
+    "path": "after/en/purchase-failed.png",
+    "sha256": "54f00b8665a65176561bbd52eba134076ba3c5375ec476b5e22a27095866a56c"
+  },
+  {
+    "path": "after/en/purchase-success.png",
+    "sha256": "fd1d0c3acd1cfd010e7801ec415442582158e3ea8e05c93b1cd8a9591849ad49"
+  },
+  {
+    "path": "after/en/purchase.png",
+    "sha256": "da2991660725dc2ae7ce51862f8636a8c732a632d7c88f6b2c88abf8245be050"
+  },
+  {
+    "path": "after/en/purchase_x2.png",
+    "sha256": "70a27eba4aee20a1d195ebaf40bca495fb6289599be96f5ba7b9f28d2901de29"
+  },
+  {
+    "path": "after/en/quiz-question.png",
+    "sha256": "aac6bd9d843a9da5b4e31cbad24c4a697b0ce77456d4724040579b8013e30b3d"
+  },
+  {
+    "path": "after/en/quiz-result.png",
+    "sha256": "cb13d7a4c9b01e4e05986ff427a20d580a9735724718c1e5ac4882e210c012a3"
+  },
+  {
+    "path": "after/en/reading.png",
+    "sha256": "1a2044a3d045a0c7cd1e39262704f75621ed52db14114fffe5ee47072895d5c0"
+  },
+  {
+    "path": "after/en/restore-not-found.png",
+    "sha256": "9c4a268ff3a828b65131a6002913a84243178e190b438d9fbaa69f36255bf762"
+  },
+  {
+    "path": "after/en/route-completion.png",
+    "sha256": "c22f8d282172d716475fd682b0dbd0abd6046969f87145fc09b3c7849eb06c5b"
+  },
+  {
+    "path": "after/en/route-detail-in-progress.png",
+    "sha256": "319fa1fb832ff7c840a4edfbfc1d1dc3eb306e0371036e9a63c652f160e07996"
+  },
+  {
+    "path": "after/en/route-ended-partial.png",
+    "sha256": "f7ad7d9fa073f9ef65ea79078a5c7f1215afb0ecfd76750bfb10982255fc179e"
+  },
+  {
+    "path": "after/en/route-preview-locked.png",
+    "sha256": "59551943534198b2d204b708f2145ea9ed43fc831101e22bfba7910b56d7922c"
+  },
+  {
+    "path": "after/en/route-stop-states.png",
+    "sha256": "578fb03a7763d9b918311f4e8fdc9495ab9498d21cda160d9525dfb70b0056fc"
+  },
+  {
+    "path": "after/en/routes-empty-completed.png",
+    "sha256": "13c798b49edad4f27f3184ef79b9f0a9f657d52e50efa72051d9c221de7617f2"
+  },
+  {
+    "path": "after/en/routes.png",
+    "sha256": "c0fcc63fec19db633a5d5a4565fff35551493e5804f5026ae4a7f8779b804a39"
+  },
+  {
+    "path": "after/en/settings.png",
+    "sha256": "4bb985ec46602dfab0b4559d7b5d884cd4302763852f59e8fff207ce45921ec4"
+  },
+  {
+    "path": "after/en/settings_x2.png",
+    "sha256": "d369b94e5cf94054cd50dffba886fb2a6d71deec9f4210b4cd5d0df027926b73"
+  },
+  {
+    "path": "after/en/stop-audio-idle.png",
+    "sha256": "56ad1d131bbfa277bed449eea86c5cb22269b7a4b76e2fdb33d9e0b5f82b204a"
+  },
+  {
+    "path": "after/en/stop-audio-idle_x2.png",
+    "sha256": "71d867c3b01f844ada6eba25ed3d4e8a1b459c61353f64522f67cda389586856"
+  },
+  {
+    "path": "after/ru/help-form.png",
+    "sha256": "e2e6474ba08c776302cd2a3ab23108235bdc2c1d54411d5ce5f77ee7385929d2"
+  },
+  {
+    "path": "after/ru/home-active-walk.png",
+    "sha256": "f22b1fe3cc669260f0b4f61e6c848f1bcc5c89d371e581104f85917e0e6814ca"
+  },
+  {
+    "path": "after/ru/home-before-purchase-lists.png",
+    "sha256": "01013b3afa596785953ec91a10263287889df6d48e327c0eb8424e6ace38277f"
+  },
+  {
+    "path": "after/ru/home-before-purchase.png",
+    "sha256": "01013b3afa596785953ec91a10263287889df6d48e327c0eb8424e6ace38277f"
+  },
+  {
+    "path": "after/ru/place-list.png",
+    "sha256": "d442a42b930aaa2a068422b8783de40187ab0db339c81ff95c5debe80da9cadc"
+  },
+  {
+    "path": "after/ru/place-sheet.png",
+    "sha256": "46d5de64b71a66165f47fb8150b75ce934a1d28e5d4d7d59d3f166e0c8d2ede9"
+  },
+  {
+    "path": "after/ru/route-detail-in-progress.png",
+    "sha256": "3b4c0e27e865f762ce7e929868e70a334b429ffde307fed9a27d42e300b076d5"
+  },
+  {
+    "path": "after/ru/settings.png",
+    "sha256": "e993744d6fe7c2dc3d89ed9d70e92f431830d4165357ccce6eb20d0014539b20"
+  },
+  {
+    "path": "after/web/home-loaded-phone.png",
+    "sha256": "b53380a5b94943f95f118395437b822225ead987a24b44d4b118db0c6bea47d7"
+  },
+  {
+    "path": "after/web/home-loaded.png",
+    "sha256": "c5ded332fa9fd75451143606f6826ae80d6b6dfe291d365843eb59f54d4d1466"
+  },
+  {
+    "path": "after/web/map-mini-phone.png",
+    "sha256": "74f76e3e0543ddea16b1ad30d2ba301a88358d6184242dae56d76c2e4572eadf"
+  },
+  {
+    "path": "after/web/map-mini.png",
+    "sha256": "e4dc9487311ad889b746fb254b4cbcda38824f11c3c88a7e811d1a2e0b704610"
+  },
+  {
+    "path": "after/web/map-phone.png",
+    "sha256": "17abd0504b922cfc23bafa1cdc2214c02206ca4f291f4bd91b460feb4f8d63d0"
+  },
+  {
+    "path": "after/web/map-return-phone.png",
+    "sha256": "74f76e3e0543ddea16b1ad30d2ba301a88358d6184242dae56d76c2e4572eadf"
+  },
+  {
+    "path": "after/web/map-return.png",
+    "sha256": "e4dc9487311ad889b746fb254b4cbcda38824f11c3c88a7e811d1a2e0b704610"
+  },
+  {
+    "path": "after/web/map.png",
+    "sha256": "224e4aace6be59fcd24608be9b397a62739555c89720bf61463cde557e1787cb"
+  },
+  {
+    "path": "after/web/routes-phone.png",
+    "sha256": "988b2983f909a30eb2102ce7cf7ab12f20483136aea4b7f09df6da45276ba87f"
+  },
+  {
+    "path": "after/web/routes.png",
+    "sha256": "2ffb5be1a19d2654c4fd4cb56cb15f55a646c269a48acd4864bb02e38af33e50"
+  },
+  {
+    "path": "after/web/stop-phone.png",
+    "sha256": "77479a8f2230df90b40ab97acedb8dba14b709d3c6bebd4d2b2fd8d3baa18e2a"
+  },
+  {
+    "path": "after/web/stop.png",
+    "sha256": "f4ec2b35f928221679ef70bdc226321ae83fcebcca136cffd4017e3bb21d6c1e"
+  },
+  {
+    "path": "before/en/audio-settings.png",
+    "sha256": "a2a9c54bc107af3f745722cb664e7a4fd272b0297367bccbb0fc0395977c2f4b"
+  },
+  {
+    "path": "before/en/download-failed.png",
+    "sha256": "fe72e37783255cf52df46aa04de68b394099958ec0aafc7c795b280da7327913"
+  },
+  {
+    "path": "before/en/full-player.png",
+    "sha256": "c611114f4922361b9a160185e266fbeb155ec949b3d508551237c0dcc3140063"
+  },
+  {
+    "path": "before/en/gallery.png",
+    "sha256": "7347881b5feba126d04a92d3b6c25c039315501f9a6ada44f4fe52004ea7244e"
+  },
+  {
+    "path": "before/en/help-form.png",
+    "sha256": "7e18febc5da7ce6863323ec3e63552ea380e66eaf90b7a67c766a66ae9dd05ad"
+  },
+  {
+    "path": "before/en/home-active-walk.png",
+    "sha256": "117c010fa149c73c7f89263b8cd7bd25b5debeb43e2aa30d5d8cff42230860e8"
+  },
+  {
+    "path": "before/en/home-active-walk_x2.png",
+    "sha256": "097dba5ab27512be88c788c99a03f7b39ed396894c64104854c9b20628ea23e5"
+  },
+  {
+    "path": "before/en/home-before-purchase-lists.png",
+    "sha256": "99064695011b91a3e2400cac63b3bee907c032294d10cb65504a14514f83b618"
+  },
+  {
+    "path": "before/en/home-before-purchase.png",
+    "sha256": "99064695011b91a3e2400cac63b3bee907c032294d10cb65504a14514f83b618"
+  },
+  {
+    "path": "before/en/home-no-active-route.png",
+    "sha256": "abce514599594b9dd670bdbba826b94651e29700f8ff241d4f33da1655c0c328"
+  },
+  {
+    "path": "before/en/home-offline.png",
+    "sha256": "e3dae4ac1c3475a8323ab0a56059f23de2ab13fd0dbb3ac71cc5cce8440dfc14"
+  },
+  {
+    "path": "before/en/language-settings.png",
+    "sha256": "d498b8ef7d1b4f1c5446ea49c4a6b21c85d581715b82e3e1c59f3226c3f097b4"
+  },
+  {
+    "path": "before/en/legal.png",
+    "sha256": "595f8a29d15d3b281fb578241c4249052aa5e696986e9df9390b9064877d0ddf"
+  },
+  {
+    "path": "before/en/location-primer.png",
+    "sha256": "6dbdecdba3dd9f9dbf8efdee32c333d1d1261150c22c6a3da2e6ff699449b8e6"
+  },
+  {
+    "path": "before/en/map-fallback.png",
+    "sha256": "71b3c00783337f47482522c25284d6e941453c25abfd61a9c241f0bef4f9ca12"
+  },
+  {
+    "path": "before/en/no-internet.png",
+    "sha256": "9ca6947c3560cc1ee012c960ad8a0373f8f2036c6c6bae5d1676c1152d412f33"
+  },
+  {
+    "path": "before/en/offline-other-language.png",
+    "sha256": "0d32991f305c668582eeb3cc28d6ec6e3daad27e9af675cbabd5e42ffa497b5c"
+  },
+  {
+    "path": "before/en/offline-storage.png",
+    "sha256": "2db8bc0a224b727a57a7c8f0e0a651bfe0556d0865fe34c9dae21e70a20ff83e"
+  },
+  {
+    "path": "before/en/onboarding.png",
+    "sha256": "f216881b53d3ef918d65388a7499b5442b4d91a7efab24026c0d184b09174972"
+  },
+  {
+    "path": "before/en/onboarding_x2.png",
+    "sha256": "13843f03ae8cf65d9a055e8448ba391c25d678e1e8e5628689f45405f330e71f"
+  },
+  {
+    "path": "before/en/permissions-privacy.png",
+    "sha256": "16b3fe2d8e954ac1087e1b907d67db2e191843be70245c42a5675d7fc59864df"
+  },
+  {
+    "path": "before/en/place-list-offline.png",
+    "sha256": "9e144d5a9dbed0e2063eeb35c2007caa564c7dbf788bfaab041db6beccbe5896"
+  },
+  {
+    "path": "before/en/place-list.png",
+    "sha256": "895ef8d8b90ec35f1d85164a85a9a75bb5baa21d2c11f9b454d97f3fbd3ec3d7"
+  },
+  {
+    "path": "before/en/place-sheet.png",
+    "sha256": "e717f1c947ec7bc9420f2991ea02673b1dce3d5ecb473217f7abd0308f3fecf1"
+  },
+  {
+    "path": "before/en/purchase-emails-open.png",
+    "sha256": "0d2cb6ba1a1b500e1e13661e1ca1a0272f77b3f6f3e864a427fe0aadb8fde093"
+  },
+  {
+    "path": "before/en/purchase-failed.png",
+    "sha256": "54f00b8665a65176561bbd52eba134076ba3c5375ec476b5e22a27095866a56c"
+  },
+  {
+    "path": "before/en/purchase-success.png",
+    "sha256": "7294f8629ab5eb1b5f6e23bdd783f52bad3f07f45f4da213b2c7d37b96ad48d0"
+  },
+  {
+    "path": "before/en/purchase.png",
+    "sha256": "da2991660725dc2ae7ce51862f8636a8c732a632d7c88f6b2c88abf8245be050"
+  },
+  {
+    "path": "before/en/purchase_x2.png",
+    "sha256": "70a27eba4aee20a1d195ebaf40bca495fb6289599be96f5ba7b9f28d2901de29"
+  },
+  {
+    "path": "before/en/quiz-question.png",
+    "sha256": "aac6bd9d843a9da5b4e31cbad24c4a697b0ce77456d4724040579b8013e30b3d"
+  },
+  {
+    "path": "before/en/quiz-result.png",
+    "sha256": "f871194c69f253f6c7aa29fc464a6efbd0670192a6785c015deb94a10d5c4dca"
+  },
+  {
+    "path": "before/en/reading.png",
+    "sha256": "1a2044a3d045a0c7cd1e39262704f75621ed52db14114fffe5ee47072895d5c0"
+  },
+  {
+    "path": "before/en/restore-not-found.png",
+    "sha256": "9c4a268ff3a828b65131a6002913a84243178e190b438d9fbaa69f36255bf762"
+  },
+  {
+    "path": "before/en/route-completion.png",
+    "sha256": "0cc0c9d848f5bb3b7bc37377df8ee04f6eed43b4034b10f8beb36a3020dcd4c7"
+  },
+  {
+    "path": "before/en/route-detail-in-progress.png",
+    "sha256": "1455659d88708a099060afae22b12c3ebadd7bc07b203093daeda670d4829c81"
+  },
+  {
+    "path": "before/en/route-ended-partial.png",
+    "sha256": "14c8542937c585b87e2b61ce318d28af9de0f46ab7aea86de543926585c783db"
+  },
+  {
+    "path": "before/en/route-preview-locked.png",
+    "sha256": "049b5105443d9a98af4f7fd490039613720d7049061248a2534e7348623a67bf"
+  },
+  {
+    "path": "before/en/route-stop-states.png",
+    "sha256": "3d14c3ff3df5bd40dd36a3d8131805330ca1fddcfa0d0783ecb71a2a6473008d"
+  },
+  {
+    "path": "before/en/routes-empty-completed.png",
+    "sha256": "188900bcd731e20d7a001580d22d3897e8a5e7dad2927e16032d3182143da132"
+  },
+  {
+    "path": "before/en/routes.png",
+    "sha256": "edec56824d657119337d3daa42a6dda71514b82d8f417402ad960f53aeab470c"
+  },
+  {
+    "path": "before/en/settings.png",
+    "sha256": "4bb985ec46602dfab0b4559d7b5d884cd4302763852f59e8fff207ce45921ec4"
+  },
+  {
+    "path": "before/en/settings_x2.png",
+    "sha256": "086a116067adc3a7f057857a8517acfcfbd28093f71a4bf31ef98dfb92a76297"
+  },
+  {
+    "path": "before/en/stop-audio-idle.png",
+    "sha256": "a489c223db58cf2af3f818b4c15d304db61723e9c89ed5d8abf126df3115b52b"
+  },
+  {
+    "path": "before/en/stop-audio-idle_x2.png",
+    "sha256": "b9f40b357da5e13f1acf4d4a45f736300b5da572893bb08c40e604b1cb311aaa"
+  },
+  {
+    "path": "before/ru/help-form.png",
+    "sha256": "b4d843a6049723c050d08ed82017ed7f3a873ae92550c98b23902a364c3a6a07"
+  },
+  {
+    "path": "before/ru/home-active-walk.png",
+    "sha256": "5895bb4b24a6972fef8c087b7ddc29a98e13cebbe08100db12543f856e21a799"
+  },
+  {
+    "path": "before/ru/home-before-purchase-lists.png",
+    "sha256": "84d18ed27dee1e3478657770fc92a6672fe931f4e41df84c30262a96d1e66ca8"
+  },
+  {
+    "path": "before/ru/home-before-purchase.png",
+    "sha256": "84d18ed27dee1e3478657770fc92a6672fe931f4e41df84c30262a96d1e66ca8"
+  },
+  {
+    "path": "before/ru/place-list.png",
+    "sha256": "55f137705b0e2c97529338723af349450101e5a0caff1d6e61547f4454dd28d1"
+  },
+  {
+    "path": "before/ru/place-sheet.png",
+    "sha256": "c1e821b81bff86d0634f09c5216545792424c3206a6c0fadf2a3b30ea80220f3"
+  },
+  {
+    "path": "before/ru/route-detail-in-progress.png",
+    "sha256": "3d14413502597c0e8f2cd0d20d3828b41a448ad1ec4b80ff774e9e794d21b945"
+  },
+  {
+    "path": "before/ru/settings.png",
+    "sha256": "e993744d6fe7c2dc3d89ed9d70e92f431830d4165357ccce6eb20d0014539b20"
+  },
+  {
+    "path": "before/web/map-mini-phone.png",
+    "sha256": "833c0c50a86128fad06d759b60525f8f624aeb305cd6b5032837442ddba6d506"
+  },
+  {
+    "path": "before/web/map-mini.png",
+    "sha256": "076d4de8798752c34a175c211c34c7ace68bd5d59c4ac48863bd23015023adea"
+  },
+  {
+    "path": "before/web/map-phone.png",
+    "sha256": "6074b0d91a8bd34ccf7418abe924c9c3d9ed4ce2163eb48fc477552375bd3758"
+  },
+  {
+    "path": "before/web/map.png",
+    "sha256": "79840c0d0ab731f55e6ff1ccdb6e2e9048e7b2bd8247ea7eb510076ed4f4c473"
+  },
+  {
+    "path": "before/web/retry-error.png",
+    "sha256": "d4f10bdadc4c20ff159cdc7b8c8222c6c7127df21fd5609a2c44db31eb94b1d9"
+  },
+  {
+    "path": "before/web/routes-phone.png",
+    "sha256": "d21218cfb955c45c4b5921d9b7479132af4047cd971b85c39ffef02ba3a075d6"
+  },
+  {
+    "path": "before/web/routes.png",
+    "sha256": "453e6039822cdb2e6e46add33b75c9533ffb3dfad094a46afa7ff44677d89c56"
+  },
+  {
+    "path": "before/web/stop-phone.png",
+    "sha256": "4e7799852c5240bb2683d89445f7c4b5dfe40c414641d1288a8dbfd15e2e182c"
+  },
+  {
+    "path": "before/web/stop.png",
+    "sha256": "1e75f77c2ee424c117d592f841465fa675de81b27f57a3c9252f6e7363db762b"
+  }
+]

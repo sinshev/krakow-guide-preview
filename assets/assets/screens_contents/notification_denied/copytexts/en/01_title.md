@@ -1,0 +1,1 @@
+Notifications are not allowed

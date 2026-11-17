@@ -1,0 +1,1 @@
+We’ll delete from this device and our server: your walk progress, downloaded routes, settings, usage data and crash reports, support messages and any email addresses you entered. Routes you bought stay available.

@@ -1,0 +1,1 @@
+{percent}% · {done} из {total}

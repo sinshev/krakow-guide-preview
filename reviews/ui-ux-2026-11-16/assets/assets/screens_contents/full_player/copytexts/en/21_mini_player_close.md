@@ -1,0 +1,1 @@
+Stop audio and close player

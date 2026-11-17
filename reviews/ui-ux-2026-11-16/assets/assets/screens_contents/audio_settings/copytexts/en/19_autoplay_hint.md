@@ -1,0 +1,1 @@
+Audio starts by itself when you open a stop on your walk.

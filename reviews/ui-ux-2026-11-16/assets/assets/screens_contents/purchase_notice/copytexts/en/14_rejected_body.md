@@ -1,0 +1,1 @@
+We couldn’t confirm this payment. Nothing is lost: contact support and we’ll sort it out.
